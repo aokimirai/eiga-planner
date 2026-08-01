@@ -1,0 +1,12 @@
+{
+  "name": "eiga-planner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

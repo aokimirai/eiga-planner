@@ -1,0 +1,266 @@
+[
+  {
+    "id": "3146",
+    "name": "TOHOシネマズ 小田原",
+    "area": "小田原",
+    "areaId": "140401",
+    "address": "神奈川県小田原市中里313-12 ダイナシティウォーク 内",
+    "url": "https://eiga.com/theater/14/140401/3146/"
+  },
+  {
+    "id": "3150",
+    "name": "小田原コロナシネマワールド",
+    "area": "小田原",
+    "areaId": "140401",
+    "address": "神奈川県小田原市前川219-4",
+    "url": "https://eiga.com/theater/14/140401/3150/"
+  },
+  {
+    "id": "3325",
+    "name": "小田原シネマ館",
+    "area": "小田原",
+    "areaId": "140401",
+    "address": "神奈川県小田原市栄町2-7-30 みのさん第一ビル1F 小田原シネマ館",
+    "url": "https://eiga.com/theater/14/140401/3325/"
+  },
+  {
+    "id": "3145",
+    "name": "TOHOシネマズ 海老名",
+    "area": "海老名",
+    "areaId": "140402",
+    "address": "神奈川県海老名市中央1-18-1 ビナウォーク 内",
+    "url": "https://eiga.com/theater/14/140402/3145/"
+  },
+  {
+    "id": "3135",
+    "name": "TOHOシネマズ 川崎",
+    "area": "川崎",
+    "areaId": "140201",
+    "address": "神奈川県川崎市川崎区駅前本町8 DICE 7F",
+    "url": "https://eiga.com/theater/14/140201/3135/"
+  },
+  {
+    "id": "3137",
+    "name": "チネチッタ",
+    "area": "川崎",
+    "areaId": "140201",
+    "address": "神奈川県川崎市川崎区小川町4-1",
+    "url": "https://eiga.com/theater/14/140201/3137/"
+  },
+  {
+    "id": "3134",
+    "name": "109シネマズ川崎",
+    "area": "川崎",
+    "areaId": "140201",
+    "address": "神奈川県川崎市幸区堀川町72-1 ラゾーナ川崎プラザ5F",
+    "url": "https://eiga.com/theater/14/140201/3134/"
+  },
+  {
+    "id": "3123",
+    "name": "イオンシネマ港北ニュータウン",
+    "area": "港北ニュータウン",
+    "areaId": "140101",
+    "address": "神奈川県横浜市都筑区中川中央1-25-1 ノースポート・モール 内",
+    "url": "https://eiga.com/theater/14/140101/3123/"
+  },
+  {
+    "id": "3120",
+    "name": "109シネマズ港北",
+    "area": "港北ニュータウン",
+    "areaId": "140101",
+    "address": "神奈川県横浜市都筑区茅ケ崎中央5-1 港北 TOKYU S.C. 6F",
+    "url": "https://eiga.com/theater/14/140101/3120/"
+  },
+  {
+    "id": "3246",
+    "name": "TOHOシネマズ 上大岡",
+    "area": "上大岡",
+    "areaId": "140103",
+    "address": "神奈川県横浜市港南区上大岡西1-18-5 mioka 3F",
+    "url": "https://eiga.com/theater/14/140103/3246/"
+  },
+  {
+    "id": "3121",
+    "name": "TOHOシネマズ ららぽーと横浜",
+    "area": "鴨居",
+    "areaId": "140104",
+    "address": "神奈川県横浜市都筑区池辺町4035-1 ららぽーと横浜3F",
+    "url": "https://eiga.com/theater/14/140104/3121/"
+  },
+  {
+    "id": "3125",
+    "name": "港南台シネサロン",
+    "area": "港南台",
+    "areaId": "140106",
+    "address": "神奈川県横浜市港南区港南台3-3-1 港南台214ビル3F",
+    "url": "https://eiga.com/theater/14/140106/3125/"
+  },
+  {
+    "id": "3130",
+    "name": "横浜シネマリン",
+    "area": "関内",
+    "areaId": "140107",
+    "address": "神奈川県横浜市中区長者町6-95",
+    "url": "https://eiga.com/theater/14/140107/3130/"
+  },
+  {
+    "id": "3247",
+    "name": "シネマ・ジャック&ベティ",
+    "area": "黄金町",
+    "areaId": "140108",
+    "address": "神奈川県横浜市中区若葉町3-51",
+    "url": "https://eiga.com/theater/14/140108/3247/"
+  },
+  {
+    "id": "3278",
+    "name": "鎌倉市川喜多映画記念館",
+    "area": "鎌倉",
+    "areaId": "140305",
+    "address": "神奈川県鎌倉市雪ノ下2-2-12",
+    "url": "https://eiga.com/theater/14/140305/3278/"
+  },
+  {
+    "id": "3288",
+    "name": "シネコヤ",
+    "area": "鵠沼海岸",
+    "areaId": "140407",
+    "address": "神奈川県藤沢市鵠沼海岸3-4-6",
+    "url": "https://eiga.com/theater/14/140407/3288/"
+  },
+  {
+    "id": "3138",
+    "name": "川崎市アートセンター",
+    "area": "新百合ヶ丘",
+    "areaId": "140202",
+    "address": "神奈川県川崎市麻生区万福寺6-7-1",
+    "url": "https://eiga.com/theater/14/140202/3138/"
+  },
+  {
+    "id": "3136",
+    "name": "イオンシネマ新百合ヶ丘",
+    "area": "新百合ヶ丘",
+    "areaId": "140202",
+    "address": "神奈川県川崎市麻生区上麻生1-19-1 イオンスタイル新百合ヶ丘6Ｆ",
+    "url": "https://eiga.com/theater/14/140202/3136/"
+  },
+  {
+    "id": "3296",
+    "name": "イオンシネマ座間",
+    "area": "座間",
+    "areaId": "140408",
+    "address": "神奈川県座間市広野台2-10-5 イオンモール座間 内",
+    "url": "https://eiga.com/theater/14/140408/3296/"
+  },
+  {
+    "id": "3266",
+    "name": "シネマノヴェチェント",
+    "area": "戸部",
+    "areaId": "140109",
+    "address": "神奈川県横浜市西区中央2-1-8 岩崎ビル2F",
+    "url": "https://eiga.com/theater/14/140109/3266/"
+  },
+  {
+    "id": "3250",
+    "name": "109シネマズ湘南",
+    "area": "辻堂",
+    "areaId": "140301",
+    "address": "神奈川県藤沢市辻堂神台1-3-1 Terrace Mall 湘南4F",
+    "url": "https://eiga.com/theater/14/140301/3250/"
+  },
+  {
+    "id": "3142",
+    "name": "イオンシネマ茅ヶ崎",
+    "area": "茅ヶ崎",
+    "areaId": "140303",
+    "address": "神奈川県茅ヶ崎市茅ヶ崎2-7-71 そよら湘南茅ヶ崎内",
+    "url": "https://eiga.com/theater/14/140303/3142/"
+  },
+  {
+    "id": "3141",
+    "name": "シネプレックス平塚",
+    "area": "平塚",
+    "areaId": "140302",
+    "address": "神奈川県平塚市代官町33-1 OSC湘南シティ 内",
+    "url": "https://eiga.com/theater/14/140302/3141/"
+  },
+  {
+    "id": "3144",
+    "name": "MOVIX橋本",
+    "area": "橋本",
+    "areaId": "140403",
+    "address": "神奈川県相模原市緑区橋本3-3-1 SING橋本 内",
+    "url": "https://eiga.com/theater/14/140403/3144/"
+  },
+  {
+    "id": "3287",
+    "name": "あつぎのえいがかんkiki",
+    "area": "本厚木",
+    "areaId": "140406",
+    "address": "神奈川県厚木市中町2-12-15 アミューあつぎ9F",
+    "url": "https://eiga.com/theater/14/140406/3287/"
+  },
+  {
+    "id": "3324",
+    "name": "ローソン・ユナイテッドシネマ STYLE-S みなとみらい",
+    "area": "みなとみらい",
+    "areaId": "140102",
+    "address": "神奈川県横浜市西区みなとみらい3-5-1 MARK IS みなとみらい 5F",
+    "url": "https://eiga.com/theater/14/140102/3324/"
+  },
+  {
+    "id": "3289",
+    "name": "kino cinema 横浜みなとみらい",
+    "area": "みなとみらい",
+    "areaId": "140102",
+    "address": "神奈川県横浜市西区みなとみらい4-7-1 みなとみらいミッドスクエア2F",
+    "url": "https://eiga.com/theater/14/140102/3289/"
+  },
+  {
+    "id": "3242",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "areaId": "140102",
+    "address": "神奈川県横浜市中区桜木町1-1-7 コレットマーレ6F",
+    "url": "https://eiga.com/theater/14/140102/3242/"
+  },
+  {
+    "id": "3124",
+    "name": "イオンシネマみなとみらい",
+    "area": "みなとみらい",
+    "areaId": "140102",
+    "address": "神奈川県横浜市中区新港2-2-1 横浜ワールドポーターズ5F",
+    "url": "https://eiga.com/theater/14/140102/3124/"
+  },
+  {
+    "id": "3304",
+    "name": "T・ジョイ横浜",
+    "area": "横浜",
+    "areaId": "140105",
+    "address": "神奈川県横浜市西区南幸1-1-1 JR横浜タワー8F",
+    "url": "https://eiga.com/theater/14/140105/3304/"
+  },
+  {
+    "id": "3122",
+    "name": "ムービル",
+    "area": "横浜",
+    "areaId": "140105",
+    "address": "神奈川県横浜市西区南幸2-1-22 相鉄ムービル 内",
+    "url": "https://eiga.com/theater/14/140105/3122/"
+  },
+  {
+    "id": "3326",
+    "name": "109シネマズゆめが丘",
+    "area": "ゆめが丘",
+    "areaId": "140110",
+    "address": "神奈川県横浜市泉区下飯田町1584-2 ゆめが丘ソラトス 3F",
+    "url": "https://eiga.com/theater/14/140110/3326/"
+  },
+  {
+    "id": "3305",
+    "name": "横須賀HUMAXシネマズ",
+    "area": "横須賀",
+    "areaId": "140306",
+    "address": "神奈川県横須賀市本町2-1-12 Coaska Bayside Stores 4F",
+    "url": "https://eiga.com/theater/14/140306/3305/"
+  }
+]

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>神奈川シネマプランナー</title>
+<meta name="description" content="神奈川県内の映画館の上映情報を横断検索。観たい映画を選ぶと、移動時間を考えたベストな映画館・上映時間の組み合わせを提案します。" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="app-header">
+  <h1>神奈川シネマプランナー</h1>
+  <p class="subtitle">神奈川県内の映画館の上映情報を横断表示。観たい映画を選ぶと移動時間込みのベストプランを提案します。</p>
+  <p class="data-note" id="data-note"></p>
+</header>
+
+<main>
+  <section class="panel" id="filters-panel">
+    <h2>上映情報を絞り込む</h2>
+    <div class="filter-row">
+      <label class="filter-field">
+        <span>日付</span>
+        <select id="date-select"></select>
+      </label>
+      <label class="filter-field grow">
+        <span>作品名で検索</span>
+        <input type="text" id="title-search" placeholder="例: スパイダーマン" />
+      </label>
+      <label class="filter-field">
+        <span>エリア</span>
+        <select id="area-select">
+          <option value="">すべて</option>
+        </select>
+      </label>
+      <label class="filter-field">
+        <span>映画館</span>
+        <select id="theater-select">
+          <option value="">すべて</option>
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <section class="panel" id="plan-panel">
+    <h2>観たい映画を選んでベストプランを作る</h2>
+    <p class="hint">下の一覧から「プランに追加」を押して、観たい映画を1〜3本選んでください。移動時間を考慮したおすすめの映画館・上映時間の組み合わせを提案します。</p>
+    <div id="selected-movies" class="selected-movies"></div>
+    <div class="plan-actions">
+      <button id="plan-button" disabled>ベストプランを提案</button>
+      <button id="plan-clear" class="secondary" disabled>選択をクリア</button>
+    </div>
+    <div id="plan-results" class="plan-results"></div>
+  </section>
+
+  <section class="panel">
+    <h2>上映一覧</h2>
+    <div id="movie-count" class="movie-count"></div>
+    <div id="movie-list" class="movie-list"></div>
+  </section>
+</main>
+
+<footer class="app-footer">
+  <p>上映情報の出典: <a href="https://eiga.com/theater/14/" target="_blank" rel="noopener">映画.com（神奈川県の映画館）</a>。情報は自動取得したものであり、変更・誤りが含まれる場合があります。ご来場前に必ず各映画館の公式情報をご確認ください。映画館間の移動時間は概算です。</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
