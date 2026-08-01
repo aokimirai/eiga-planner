@@ -26,12 +26,13 @@
         <span>作品名で検索</span>
         <input type="text" id="title-search" placeholder="例: スパイダーマン" />
       </label>
-      <label class="filter-field">
+      <div class="filter-field">
         <span>エリア</span>
-        <select id="area-select">
-          <option value="">すべて</option>
-        </select>
-      </label>
+        <div class="multiselect" id="area-multiselect">
+          <button type="button" class="multiselect-toggle" id="area-toggle">すべて</button>
+          <div class="multiselect-panel" id="area-panel" hidden></div>
+        </div>
+      </div>
       <label class="filter-field">
         <span>映画館</span>
         <select id="theater-select">

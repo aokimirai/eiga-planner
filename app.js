@@ -9,7 +9,7 @@ const state = {
   travel: null,
   distanceCache: null, // Map<station, Map<station, minutes>>
   dates: [],
-  filters: { date: null, title: "", area: "", theaterId: "" },
+  filters: { date: null, title: "", areas: new Set(), theaterId: "" },
   selectedTitles: [],
 };
 
@@ -87,15 +87,15 @@ function travelMinutes(theaterIdA, theaterIdB) {
 // ---------- filtering & rendering the schedule list ----------
 
 function filteredScreenings() {
-  const { date, title, area, theaterId } = state.filters;
+  const { date, title, areas, theaterId } = state.filters;
   const q = title.trim();
   return state.screenings.filter((s) => {
     if (date && s.date !== date) return false;
     if (q && !s.title.includes(q)) return false;
     if (theaterId && s.theaterId !== theaterId) return false;
-    if (area) {
+    if (areas.size > 0) {
       const theater = state.theaterById.get(s.theaterId);
-      if (!theater || theater.area !== area) return false;
+      if (!theater || !areas.has(theater.area)) return false;
     }
     return true;
   });
@@ -128,10 +128,19 @@ function renderFilters() {
   const areas = [...new Set(state.theaters.map((t) => t.area))].sort((a, b) =>
     a.localeCompare(b, "ja"),
   );
-  const areaSelect = document.getElementById("area-select");
-  areaSelect.innerHTML =
-    `<option value="">すべて</option>` +
-    areas.map((a) => `<option value="${a}">${a}</option>`).join("");
+  const areaPanel = document.getElementById("area-panel");
+  areaPanel.innerHTML =
+    `<div class="multiselect-actions">
+      <button type="button" id="area-select-all">すべて選択</button>
+      <button type="button" id="area-select-none">選択解除</button>
+    </div>` +
+    areas
+      .map(
+        (a) =>
+          `<label class="multiselect-option"><input type="checkbox" value="${a}" ${state.filters.areas.has(a) ? "checked" : ""} />${a}</label>`,
+      )
+      .join("");
+  updateAreaToggleLabel();
 
   const theaterSelect = document.getElementById("theater-select");
   const theatersSorted = [...state.theaters].sort((a, b) =>
@@ -390,6 +399,51 @@ function renderGap(prev, next) {
   return `<div class="plan-gap">↓ ${label}</div>`;
 }
 
+// ---------- area multiselect ----------
+
+function updateAreaToggleLabel() {
+  const toggle = document.getElementById("area-toggle");
+  const n = state.filters.areas.size;
+  toggle.textContent = n === 0 ? "すべて" : `${n}エリア選択中`;
+}
+
+function setupAreaMultiselect() {
+  const toggle = document.getElementById("area-toggle");
+  const panel = document.getElementById("area-panel");
+
+  toggle.addEventListener("click", () => {
+    panel.hidden = !panel.hidden;
+  });
+  document.addEventListener("click", (e) => {
+    if (!panel.hidden && !panel.contains(e.target) && e.target !== toggle) {
+      panel.hidden = true;
+    }
+  });
+  panel.addEventListener("change", (e) => {
+    if (e.target.type !== "checkbox") return;
+    if (e.target.checked) state.filters.areas.add(e.target.value);
+    else state.filters.areas.delete(e.target.value);
+    updateAreaToggleLabel();
+    renderMovieList();
+  });
+  document.getElementById("area-select-all").addEventListener("click", () => {
+    panel.querySelectorAll("input[type=checkbox]").forEach((cb) => {
+      cb.checked = true;
+      state.filters.areas.add(cb.value);
+    });
+    updateAreaToggleLabel();
+    renderMovieList();
+  });
+  document.getElementById("area-select-none").addEventListener("click", () => {
+    panel.querySelectorAll("input[type=checkbox]").forEach((cb) => {
+      cb.checked = false;
+    });
+    state.filters.areas.clear();
+    updateAreaToggleLabel();
+    renderMovieList();
+  });
+}
+
 // ---------- wiring ----------
 
 function attachEvents() {
@@ -402,10 +456,7 @@ function attachEvents() {
     state.filters.title = e.target.value;
     renderMovieList();
   });
-  document.getElementById("area-select").addEventListener("change", (e) => {
-    state.filters.area = e.target.value;
-    renderMovieList();
-  });
+  setupAreaMultiselect();
   document.getElementById("theater-select").addEventListener("change", (e) => {
     state.filters.theaterId = e.target.value;
     renderMovieList();

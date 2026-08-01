@@ -110,6 +110,75 @@ main {
   margin-top: 0;
 }
 
+.multiselect {
+  position: relative;
+}
+
+.multiselect-toggle {
+  background: var(--chip-bg);
+  border: 1px solid var(--panel-border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 0.95rem;
+  min-width: 140px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.multiselect-panel {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 4px);
+  left: 0;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  padding: 8px;
+  min-width: 220px;
+  max-width: min(260px, 85vw);
+  max-height: 280px;
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.multiselect-panel .multiselect-actions {
+  display: flex;
+  gap: 8px;
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+  border-bottom: 1px solid var(--panel-border);
+}
+
+.multiselect-panel .multiselect-actions button {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 0.78rem;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+
+.multiselect-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 2px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.multiselect-option input[type="checkbox"] {
+  margin: 0;
+  flex-shrink: 0;
+  width: 16px;
+  min-width: 0;
+  height: 16px;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
 .selected-movies {
   display: flex;
   flex-wrap: wrap;
