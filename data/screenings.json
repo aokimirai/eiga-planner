@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T20:05:18.055Z",
+  "generatedAt": "2026-08-02T09:05:29.344Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -1753,106 +1753,6 @@
     },
     {
       "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "15:45",
-      "timestamp": 1785653100
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:35",
-      "timestamp": 1785670500
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "15:45",
-      "timestamp": 1785739500
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:35",
-      "timestamp": 1785756900
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "15:45",
-      "timestamp": 1785825900
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:35",
-      "timestamp": 1785843300
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "15:45",
-      "timestamp": 1785912300
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "20:35",
-      "timestamp": 1785929700
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "15:45",
-      "timestamp": 1785998700
-    },
-    {
-      "theaterId": "3146",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:35",
-      "timestamp": 1786016100
-    },
-    {
-      "theaterId": "3146",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -2150,6 +2050,106 @@
       "date": "20260806",
       "time": "21:00",
       "timestamp": 1786017600
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "15:45",
+      "timestamp": 1785653100
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:35",
+      "timestamp": 1785670500
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "15:45",
+      "timestamp": 1785739500
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:35",
+      "timestamp": 1785756900
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "15:45",
+      "timestamp": 1785825900
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:35",
+      "timestamp": 1785843300
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "15:45",
+      "timestamp": 1785912300
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "20:35",
+      "timestamp": 1785929700
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "15:45",
+      "timestamp": 1785998700
+    },
+    {
+      "theaterId": "3146",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "20:35",
+      "timestamp": 1786016100
     },
     {
       "theaterId": "3146",
@@ -4573,156 +4573,6 @@
     },
     {
       "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "10:30",
-      "timestamp": 1785634200
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "18:25",
-      "timestamp": 1785662700
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:55",
-      "timestamp": 1785671700
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "10:55",
-      "timestamp": 1785722100
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:40",
-      "timestamp": 1785742800
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:15",
-      "timestamp": 1785755700
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "10:55",
-      "timestamp": 1785808500
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:40",
-      "timestamp": 1785829200
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:15",
-      "timestamp": 1785842100
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "10:30",
-      "timestamp": 1785893400
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:05",
-      "timestamp": 1785913500
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "18:35",
-      "timestamp": 1785922500
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "10:55",
-      "timestamp": 1785981300
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:40",
-      "timestamp": 1786002000
-    },
-    {
-      "theaterId": "3150",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:15",
-      "timestamp": 1786014900
-    },
-    {
-      "theaterId": "3150",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -4970,6 +4820,156 @@
       "date": "20260806",
       "time": "20:10",
       "timestamp": 1786014600
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "10:30",
+      "timestamp": 1785634200
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "18:25",
+      "timestamp": 1785662700
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:55",
+      "timestamp": 1785671700
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "10:55",
+      "timestamp": 1785722100
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:40",
+      "timestamp": 1785742800
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:15",
+      "timestamp": 1785755700
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "10:55",
+      "timestamp": 1785808500
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:40",
+      "timestamp": 1785829200
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:15",
+      "timestamp": 1785842100
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "10:30",
+      "timestamp": 1785893400
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:05",
+      "timestamp": 1785913500
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "18:35",
+      "timestamp": 1785922500
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "10:55",
+      "timestamp": 1785981300
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:40",
+      "timestamp": 1786002000
+    },
+    {
+      "theaterId": "3150",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "20:15",
+      "timestamp": 1786014900
     },
     {
       "theaterId": "3150",
@@ -7393,106 +7393,6 @@
     },
     {
       "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:25",
-      "timestamp": 1785626700
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:30",
-      "timestamp": 1785655800
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:30",
-      "timestamp": 1785713400
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "17:05",
-      "timestamp": 1785744300
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:30",
-      "timestamp": 1785799800
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "17:05",
-      "timestamp": 1785830700
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:30",
-      "timestamp": 1785886200
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:40",
-      "timestamp": 1785915600
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:15",
-      "timestamp": 1785971700
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:40",
-      "timestamp": 1786002000
-    },
-    {
-      "theaterId": "3145",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -7820,6 +7720,106 @@
       "date": "20260806",
       "time": "21:00",
       "timestamp": 1786017600
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:25",
+      "timestamp": 1785626700
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:30",
+      "timestamp": 1785655800
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:30",
+      "timestamp": 1785713400
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "17:05",
+      "timestamp": 1785744300
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:30",
+      "timestamp": 1785799800
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "17:05",
+      "timestamp": 1785830700
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:30",
+      "timestamp": 1785886200
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:40",
+      "timestamp": 1785915600
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:15",
+      "timestamp": 1785971700
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:40",
+      "timestamp": 1786002000
     },
     {
       "theaterId": "3145",
@@ -10073,106 +10073,6 @@
     },
     {
       "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "14:35",
-      "timestamp": 1785648900
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:50",
-      "timestamp": 1785675000
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "14:35",
-      "timestamp": 1785735300
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:45",
-      "timestamp": 1785761100
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "14:35",
-      "timestamp": 1785821700
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:45",
-      "timestamp": 1785847500
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "14:35",
-      "timestamp": 1785908100
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:45",
-      "timestamp": 1785933900
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "14:35",
-      "timestamp": 1785994500
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:45",
-      "timestamp": 1786020300
-    },
-    {
-      "theaterId": "3135",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -10470,6 +10370,106 @@
       "date": "20260806",
       "time": "21:35",
       "timestamp": 1786019700
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "14:35",
+      "timestamp": 1785648900
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:50",
+      "timestamp": 1785675000
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "14:35",
+      "timestamp": 1785735300
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:45",
+      "timestamp": 1785761100
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "14:35",
+      "timestamp": 1785821700
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:45",
+      "timestamp": 1785847500
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "14:35",
+      "timestamp": 1785908100
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:45",
+      "timestamp": 1785933900
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "14:35",
+      "timestamp": 1785994500
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:45",
+      "timestamp": 1786020300
     },
     {
       "theaterId": "3135",
@@ -12103,96 +12103,6 @@
     },
     {
       "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "14:25",
-      "timestamp": 1785648300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "17:55",
-      "timestamp": 1785660900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:20",
-      "timestamp": 1785669600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "14:25",
-      "timestamp": 1785734700
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "17:55",
-      "timestamp": 1785747300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:20",
-      "timestamp": 1785756000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "14:25",
-      "timestamp": 1785821100
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "17:55",
-      "timestamp": 1785833700
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:20",
-      "timestamp": 1785842400
-    },
-    {
-      "theaterId": "3137",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -12370,6 +12280,96 @@
       "date": "20260804",
       "time": "20:50",
       "timestamp": 1785844200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "14:25",
+      "timestamp": 1785648300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "17:55",
+      "timestamp": 1785660900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:20",
+      "timestamp": 1785669600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "14:25",
+      "timestamp": 1785734700
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "17:55",
+      "timestamp": 1785747300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:20",
+      "timestamp": 1785756000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "14:25",
+      "timestamp": 1785821100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "17:55",
+      "timestamp": 1785833700
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:20",
+      "timestamp": 1785842400
     },
     {
       "theaterId": "3137",
@@ -14743,116 +14743,6 @@
     },
     {
       "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:30",
-      "timestamp": 1785655800
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "19:00",
-      "timestamp": 1785664800
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:30",
-      "timestamp": 1785673800
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "10:00",
-      "timestamp": 1785718800
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "18:45",
-      "timestamp": 1785750300
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "10:00",
-      "timestamp": 1785805200
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "18:45",
-      "timestamp": 1785836700
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "10:00",
-      "timestamp": 1785891600
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "18:45",
-      "timestamp": 1785923100
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "10:00",
-      "timestamp": 1785978000
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "18:45",
-      "timestamp": 1786009500
-    },
-    {
-      "theaterId": "3134",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -15110,6 +15000,116 @@
       "date": "20260806",
       "time": "21:05",
       "timestamp": 1786017900
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:30",
+      "timestamp": 1785655800
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "19:00",
+      "timestamp": 1785664800
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:30",
+      "timestamp": 1785673800
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "10:00",
+      "timestamp": 1785718800
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "18:45",
+      "timestamp": 1785750300
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "10:00",
+      "timestamp": 1785805200
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "18:45",
+      "timestamp": 1785836700
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "10:00",
+      "timestamp": 1785891600
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "18:45",
+      "timestamp": 1785923100
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "10:00",
+      "timestamp": 1785978000
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "18:45",
+      "timestamp": 1786009500
     },
     {
       "theaterId": "3134",
@@ -17523,156 +17523,6 @@
     },
     {
       "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "9:10",
-      "timestamp": 1785629400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "18:15",
-      "timestamp": 1785662100
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:55",
-      "timestamp": 1785671700
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "9:10",
-      "timestamp": 1785715800
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "18:15",
-      "timestamp": 1785748500
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:55",
-      "timestamp": 1785758100
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "9:50",
-      "timestamp": 1785804600
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "18:20",
-      "timestamp": 1785835200
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:45",
-      "timestamp": 1785843900
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "9:50",
-      "timestamp": 1785891000
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "15:00",
-      "timestamp": 1785909600
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "20:55",
-      "timestamp": 1785930900
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "9:50",
-      "timestamp": 1785977400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "18:20",
-      "timestamp": 1786008000
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:45",
-      "timestamp": 1786016700
-    },
-    {
-      "theaterId": "3123",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -18167,6 +18017,156 @@
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
       "runtimeMin": 102,
+      "date": "20260806",
+      "time": "20:45",
+      "timestamp": 1786016700
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "9:10",
+      "timestamp": 1785629400
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "18:15",
+      "timestamp": 1785662100
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:55",
+      "timestamp": 1785671700
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "9:10",
+      "timestamp": 1785715800
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "18:15",
+      "timestamp": 1785748500
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:55",
+      "timestamp": 1785758100
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "9:50",
+      "timestamp": 1785804600
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "18:20",
+      "timestamp": 1785835200
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:45",
+      "timestamp": 1785843900
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "9:50",
+      "timestamp": 1785891000
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "15:00",
+      "timestamp": 1785909600
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "20:55",
+      "timestamp": 1785930900
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "9:50",
+      "timestamp": 1785977400
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "18:20",
+      "timestamp": 1786008000
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
       "date": "20260806",
       "time": "20:45",
       "timestamp": 1786016700
@@ -22313,106 +22313,6 @@
     },
     {
       "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:20",
-      "timestamp": 1785655200
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:05",
-      "timestamp": 1785672300
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:20",
-      "timestamp": 1785741600
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:05",
-      "timestamp": 1785758700
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:20",
-      "timestamp": 1785828000
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:05",
-      "timestamp": 1785845100
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:20",
-      "timestamp": 1785914400
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:50",
-      "timestamp": 1785934200
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:20",
-      "timestamp": 1786000800
-    },
-    {
-      "theaterId": "3246",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:05",
-      "timestamp": 1786017900
-    },
-    {
-      "theaterId": "3246",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -22747,6 +22647,106 @@
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
       "runtimeMin": 102,
+      "date": "20260806",
+      "time": "21:05",
+      "timestamp": 1786017900
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:20",
+      "timestamp": 1785655200
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:05",
+      "timestamp": 1785672300
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:20",
+      "timestamp": 1785741600
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:05",
+      "timestamp": 1785758700
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:20",
+      "timestamp": 1785828000
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:05",
+      "timestamp": 1785845100
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:20",
+      "timestamp": 1785914400
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:50",
+      "timestamp": 1785934200
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:20",
+      "timestamp": 1786000800
+    },
+    {
+      "theaterId": "3246",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
       "date": "20260806",
       "time": "21:05",
       "timestamp": 1786017900
@@ -25483,96 +25483,6 @@
     },
     {
       "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "14:35",
-      "timestamp": 1785648900
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "14:35",
-      "timestamp": 1785735300
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:40",
-      "timestamp": 1785760800
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "14:35",
-      "timestamp": 1785821700
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:40",
-      "timestamp": 1785847200
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "14:35",
-      "timestamp": 1785908100
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:40",
-      "timestamp": 1785933600
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "14:35",
-      "timestamp": 1785994500
-    },
-    {
-      "theaterId": "3121",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:40",
-      "timestamp": 1786020000
-    },
-    {
-      "theaterId": "3121",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "字幕",
@@ -26010,6 +25920,96 @@
       "date": "20260806",
       "time": "21:50",
       "timestamp": 1786020600
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "14:35",
+      "timestamp": 1785648900
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "14:35",
+      "timestamp": 1785735300
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:40",
+      "timestamp": 1785760800
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "14:35",
+      "timestamp": 1785821700
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:40",
+      "timestamp": 1785847200
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "14:35",
+      "timestamp": 1785908100
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:40",
+      "timestamp": 1785933600
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "14:35",
+      "timestamp": 1785994500
+    },
+    {
+      "theaterId": "3121",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:40",
+      "timestamp": 1786020000
     },
     {
       "theaterId": "3121",
@@ -30183,156 +30183,6 @@
     },
     {
       "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:50",
-      "timestamp": 1785628200
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:05",
-      "timestamp": 1785654300
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:10",
-      "timestamp": 1785672600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:20",
-      "timestamp": 1785712800
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:35",
-      "timestamp": 1785742500
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:45",
-      "timestamp": 1785761100
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:20",
-      "timestamp": 1785799200
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:40",
-      "timestamp": 1785829200
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:45",
-      "timestamp": 1785847500
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:20",
-      "timestamp": 1785885600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:40",
-      "timestamp": 1785915600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:45",
-      "timestamp": 1785933900
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:20",
-      "timestamp": 1785972000
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:40",
-      "timestamp": 1786002000
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:45",
-      "timestamp": 1786020300
-    },
-    {
-      "theaterId": "3136",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -30640,6 +30490,156 @@
       "date": "20260806",
       "time": "21:00",
       "timestamp": 1786017600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:50",
+      "timestamp": 1785628200
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:05",
+      "timestamp": 1785654300
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:10",
+      "timestamp": 1785672600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:20",
+      "timestamp": 1785712800
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:35",
+      "timestamp": 1785742500
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:45",
+      "timestamp": 1785761100
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:20",
+      "timestamp": 1785799200
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:40",
+      "timestamp": 1785829200
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:45",
+      "timestamp": 1785847500
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:20",
+      "timestamp": 1785885600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:40",
+      "timestamp": 1785915600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:45",
+      "timestamp": 1785933900
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:20",
+      "timestamp": 1785972000
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:40",
+      "timestamp": 1786002000
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:45",
+      "timestamp": 1786020300
     },
     {
       "theaterId": "3136",
@@ -32783,156 +32783,6 @@
     },
     {
       "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:15",
-      "timestamp": 1785626100
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "17:50",
-      "timestamp": 1785660600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:05",
-      "timestamp": 1785672300
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:20",
-      "timestamp": 1785712800
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "17:50",
-      "timestamp": 1785747000
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:05",
-      "timestamp": 1785758700
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:30",
-      "timestamp": 1785799800
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "17:55",
-      "timestamp": 1785833700
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:05",
-      "timestamp": 1785845100
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:30",
-      "timestamp": 1785886200
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "17:50",
-      "timestamp": 1785919800
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:05",
-      "timestamp": 1785931500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:30",
-      "timestamp": 1785972600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "17:55",
-      "timestamp": 1786006500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:05",
-      "timestamp": 1786017900
-    },
-    {
-      "theaterId": "3296",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -33230,6 +33080,156 @@
       "date": "20260806",
       "time": "20:15",
       "timestamp": 1786014900
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:15",
+      "timestamp": 1785626100
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "17:50",
+      "timestamp": 1785660600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:05",
+      "timestamp": 1785672300
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:20",
+      "timestamp": 1785712800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "17:50",
+      "timestamp": 1785747000
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:05",
+      "timestamp": 1785758700
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:30",
+      "timestamp": 1785799800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "17:55",
+      "timestamp": 1785833700
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:05",
+      "timestamp": 1785845100
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:30",
+      "timestamp": 1785886200
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "17:50",
+      "timestamp": 1785919800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:05",
+      "timestamp": 1785931500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:30",
+      "timestamp": 1785972600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "17:55",
+      "timestamp": 1786006500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:05",
+      "timestamp": 1786017900
     },
     {
       "theaterId": "3296",
@@ -35723,116 +35723,6 @@
     },
     {
       "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "11:20",
-      "timestamp": 1785637200
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:30",
-      "timestamp": 1785655800
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:50",
-      "timestamp": 1785675000
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "14:05",
-      "timestamp": 1785733500
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:45",
-      "timestamp": 1785761100
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "14:05",
-      "timestamp": 1785819900
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:45",
-      "timestamp": 1785847500
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "14:05",
-      "timestamp": 1785906300
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:45",
-      "timestamp": 1785933900
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "14:05",
-      "timestamp": 1785992700
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:45",
-      "timestamp": 1786020300
-    },
-    {
-      "theaterId": "3250",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -36180,6 +36070,116 @@
       "date": "20260806",
       "time": "21:35",
       "timestamp": 1786019700
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "11:20",
+      "timestamp": 1785637200
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:30",
+      "timestamp": 1785655800
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:50",
+      "timestamp": 1785675000
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "14:05",
+      "timestamp": 1785733500
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:45",
+      "timestamp": 1785761100
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "14:05",
+      "timestamp": 1785819900
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:45",
+      "timestamp": 1785847500
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "14:05",
+      "timestamp": 1785906300
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:45",
+      "timestamp": 1785933900
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "14:05",
+      "timestamp": 1785992700
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:45",
+      "timestamp": 1786020300
     },
     {
       "theaterId": "3250",
@@ -39813,156 +39813,6 @@
     },
     {
       "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "10:50",
-      "timestamp": 1785635400
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "19:10",
-      "timestamp": 1785665400
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:35",
-      "timestamp": 1785674100
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "10:50",
-      "timestamp": 1785721800
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "19:10",
-      "timestamp": 1785751800
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:35",
-      "timestamp": 1785760500
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "10:50",
-      "timestamp": 1785808200
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "19:10",
-      "timestamp": 1785838200
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:35",
-      "timestamp": 1785846900
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "10:50",
-      "timestamp": 1785894600
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "19:10",
-      "timestamp": 1785924600
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:35",
-      "timestamp": 1785933300
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "10:50",
-      "timestamp": 1785981000
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "19:10",
-      "timestamp": 1786011000
-    },
-    {
-      "theaterId": "3141",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:35",
-      "timestamp": 1786019700
-    },
-    {
-      "theaterId": "3141",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -40260,6 +40110,156 @@
       "date": "20260806",
       "time": "21:45",
       "timestamp": 1786020300
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "10:50",
+      "timestamp": 1785635400
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "19:10",
+      "timestamp": 1785665400
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:35",
+      "timestamp": 1785674100
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "10:50",
+      "timestamp": 1785721800
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "19:10",
+      "timestamp": 1785751800
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:35",
+      "timestamp": 1785760500
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "10:50",
+      "timestamp": 1785808200
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "19:10",
+      "timestamp": 1785838200
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:35",
+      "timestamp": 1785846900
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "10:50",
+      "timestamp": 1785894600
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "19:10",
+      "timestamp": 1785924600
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:35",
+      "timestamp": 1785933300
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "10:50",
+      "timestamp": 1785981000
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "19:10",
+      "timestamp": 1786011000
+    },
+    {
+      "theaterId": "3141",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:35",
+      "timestamp": 1786019700
     },
     {
       "theaterId": "3141",
@@ -42153,156 +42153,6 @@
     },
     {
       "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:15",
-      "timestamp": 1785626100
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:25",
-      "timestamp": 1785655500
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "18:45",
-      "timestamp": 1785663900
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:15",
-      "timestamp": 1785712500
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:25",
-      "timestamp": 1785741900
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "18:45",
-      "timestamp": 1785750300
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:15",
-      "timestamp": 1785798900
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:25",
-      "timestamp": 1785828300
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "18:45",
-      "timestamp": 1785836700
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:15",
-      "timestamp": 1785885300
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:25",
-      "timestamp": 1785914700
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "18:45",
-      "timestamp": 1785923100
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:15",
-      "timestamp": 1785971700
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:25",
-      "timestamp": 1786001100
-    },
-    {
-      "theaterId": "3144",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "18:45",
-      "timestamp": 1786009500
-    },
-    {
-      "theaterId": "3144",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -42650,6 +42500,156 @@
       "date": "20260806",
       "time": "20:45",
       "timestamp": 1786016700
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:15",
+      "timestamp": 1785626100
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:25",
+      "timestamp": 1785655500
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "18:45",
+      "timestamp": 1785663900
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:15",
+      "timestamp": 1785712500
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:25",
+      "timestamp": 1785741900
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "18:45",
+      "timestamp": 1785750300
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:15",
+      "timestamp": 1785798900
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:25",
+      "timestamp": 1785828300
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "18:45",
+      "timestamp": 1785836700
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:15",
+      "timestamp": 1785885300
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:25",
+      "timestamp": 1785914700
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "18:45",
+      "timestamp": 1785923100
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:15",
+      "timestamp": 1785971700
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:25",
+      "timestamp": 1786001100
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "18:45",
+      "timestamp": 1786009500
     },
     {
       "theaterId": "3144",
@@ -43353,56 +43353,6 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "105617",
-      "title": "新凱旋門物語",
-      "typeLabel": "字幕",
-      "runtimeMin": 106,
-      "date": "20260802",
-      "time": "17:40",
-      "timestamp": 1785660000
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105617",
-      "title": "新凱旋門物語",
-      "typeLabel": "字幕",
-      "runtimeMin": 106,
-      "date": "20260803",
-      "time": "17:40",
-      "timestamp": 1785746400
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105617",
-      "title": "新凱旋門物語",
-      "typeLabel": "字幕",
-      "runtimeMin": 106,
-      "date": "20260804",
-      "time": "17:40",
-      "timestamp": 1785832800
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105617",
-      "title": "新凱旋門物語",
-      "typeLabel": "字幕",
-      "runtimeMin": 106,
-      "date": "20260805",
-      "time": "17:40",
-      "timestamp": 1785919200
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105617",
-      "title": "新凱旋門物語",
-      "typeLabel": "字幕",
-      "runtimeMin": 106,
-      "date": "20260806",
-      "time": "17:40",
-      "timestamp": 1786005600
-    },
-    {
-      "theaterId": "3287",
       "movieId": "105861",
       "title": "夢物語 The Living Dragon",
       "typeLabel": null,
@@ -43450,6 +43400,56 @@
       "date": "20260806",
       "time": "15:55",
       "timestamp": 1785999300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105617",
+      "title": "新凱旋門物語",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260802",
+      "time": "17:40",
+      "timestamp": 1785660000
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105617",
+      "title": "新凱旋門物語",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260803",
+      "time": "17:40",
+      "timestamp": 1785746400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105617",
+      "title": "新凱旋門物語",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260804",
+      "time": "17:40",
+      "timestamp": 1785832800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105617",
+      "title": "新凱旋門物語",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260805",
+      "time": "17:40",
+      "timestamp": 1785919200
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105617",
+      "title": "新凱旋門物語",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260806",
+      "time": "17:40",
+      "timestamp": 1786005600
     },
     {
       "theaterId": "3287",
@@ -43553,56 +43553,6 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "105855",
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "typeLabel": null,
-      "runtimeMin": 108,
-      "date": "20260802",
-      "time": "14:30",
-      "timestamp": 1785648600
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105855",
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "typeLabel": null,
-      "runtimeMin": 108,
-      "date": "20260803",
-      "time": "14:30",
-      "timestamp": 1785735000
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105855",
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "typeLabel": null,
-      "runtimeMin": 108,
-      "date": "20260804",
-      "time": "14:30",
-      "timestamp": 1785821400
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105855",
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "typeLabel": null,
-      "runtimeMin": 108,
-      "date": "20260805",
-      "time": "14:30",
-      "timestamp": 1785907800
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105855",
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "typeLabel": null,
-      "runtimeMin": 108,
-      "date": "20260806",
-      "time": "14:30",
-      "timestamp": 1785994200
-    },
-    {
-      "theaterId": "3287",
       "movieId": "105852",
       "title": "さよなら、僕の英雄",
       "typeLabel": "字幕",
@@ -43650,6 +43600,56 @@
       "date": "20260806",
       "time": "13:30",
       "timestamp": 1785990600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260802",
+      "time": "14:30",
+      "timestamp": 1785648600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260803",
+      "time": "14:30",
+      "timestamp": 1785735000
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260804",
+      "time": "14:30",
+      "timestamp": 1785821400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260805",
+      "time": "14:30",
+      "timestamp": 1785907800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260806",
+      "time": "14:30",
+      "timestamp": 1785994200
     },
     {
       "theaterId": "3287",
@@ -46013,156 +46013,6 @@
     },
     {
       "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:30",
-      "timestamp": 1785627000
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "14:05",
-      "timestamp": 1785647100
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:35",
-      "timestamp": 1785670500
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:30",
-      "timestamp": 1785713400
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "14:05",
-      "timestamp": 1785733500
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:35",
-      "timestamp": 1785756900
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:30",
-      "timestamp": 1785799800
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "14:05",
-      "timestamp": 1785819900
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:35",
-      "timestamp": 1785843300
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:30",
-      "timestamp": 1785886200
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "14:05",
-      "timestamp": 1785906300
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "20:35",
-      "timestamp": 1785929700
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:30",
-      "timestamp": 1785972600
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "14:05",
-      "timestamp": 1785992700
-    },
-    {
-      "theaterId": "3324",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:35",
-      "timestamp": 1786016100
-    },
-    {
-      "theaterId": "3324",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "字幕",
@@ -46610,6 +46460,156 @@
       "date": "20260806",
       "time": "20:10",
       "timestamp": 1786014600
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:30",
+      "timestamp": 1785627000
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "14:05",
+      "timestamp": 1785647100
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:35",
+      "timestamp": 1785670500
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:30",
+      "timestamp": 1785713400
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "14:05",
+      "timestamp": 1785733500
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:35",
+      "timestamp": 1785756900
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:30",
+      "timestamp": 1785799800
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "14:05",
+      "timestamp": 1785819900
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:35",
+      "timestamp": 1785843300
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:30",
+      "timestamp": 1785886200
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "14:05",
+      "timestamp": 1785906300
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "20:35",
+      "timestamp": 1785929700
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:30",
+      "timestamp": 1785972600
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "14:05",
+      "timestamp": 1785992700
+    },
+    {
+      "theaterId": "3324",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "20:35",
+      "timestamp": 1786016100
     },
     {
       "theaterId": "3324",
@@ -47623,56 +47623,6 @@
     },
     {
       "theaterId": "3289",
-      "movieId": "53383",
-      "title": "ぐるりのこと。",
-      "typeLabel": null,
-      "runtimeMin": 140,
-      "date": "20260802",
-      "time": "17:00",
-      "timestamp": 1785657600
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "53383",
-      "title": "ぐるりのこと。",
-      "typeLabel": null,
-      "runtimeMin": 140,
-      "date": "20260803",
-      "time": "17:45",
-      "timestamp": 1785746700
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "53383",
-      "title": "ぐるりのこと。",
-      "typeLabel": null,
-      "runtimeMin": 140,
-      "date": "20260804",
-      "time": "17:45",
-      "timestamp": 1785833100
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "53383",
-      "title": "ぐるりのこと。",
-      "typeLabel": null,
-      "runtimeMin": 140,
-      "date": "20260805",
-      "time": "14:45",
-      "timestamp": 1785908700
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "53383",
-      "title": "ぐるりのこと。",
-      "typeLabel": null,
-      "runtimeMin": 140,
-      "date": "20260806",
-      "time": "16:15",
-      "timestamp": 1786000500
-    },
-    {
-      "theaterId": "3289",
       "movieId": "104699",
       "title": "箱の中の羊",
       "typeLabel": null,
@@ -47720,6 +47670,56 @@
       "date": "20260806",
       "time": "15:50",
       "timestamp": 1785999000
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260802",
+      "time": "17:00",
+      "timestamp": 1785657600
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260803",
+      "time": "17:45",
+      "timestamp": 1785746700
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260804",
+      "time": "17:45",
+      "timestamp": 1785833100
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260805",
+      "time": "14:45",
+      "timestamp": 1785908700
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260806",
+      "time": "16:15",
+      "timestamp": 1786000500
     },
     {
       "theaterId": "3289",
@@ -50223,156 +50223,6 @@
     },
     {
       "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:30",
-      "timestamp": 1785627000
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:25",
-      "timestamp": 1785655500
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:20",
-      "timestamp": 1785673200
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "8:30",
-      "timestamp": 1785713400
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:25",
-      "timestamp": 1785741900
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:20",
-      "timestamp": 1785759600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "8:30",
-      "timestamp": 1785799800
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:25",
-      "timestamp": 1785828300
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:20",
-      "timestamp": 1785846000
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "8:30",
-      "timestamp": 1785886200
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "16:25",
-      "timestamp": 1785914700
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:20",
-      "timestamp": 1785932400
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "8:30",
-      "timestamp": 1785972600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:25",
-      "timestamp": 1786001100
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:20",
-      "timestamp": 1786018800
-    },
-    {
-      "theaterId": "3242",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -50620,6 +50470,156 @@
       "date": "20260806",
       "time": "21:25",
       "timestamp": 1786019100
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:30",
+      "timestamp": 1785627000
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:25",
+      "timestamp": 1785655500
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:20",
+      "timestamp": 1785673200
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "8:30",
+      "timestamp": 1785713400
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:25",
+      "timestamp": 1785741900
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:20",
+      "timestamp": 1785759600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "8:30",
+      "timestamp": 1785799800
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:25",
+      "timestamp": 1785828300
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:20",
+      "timestamp": 1785846000
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "8:30",
+      "timestamp": 1785886200
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "16:25",
+      "timestamp": 1785914700
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:20",
+      "timestamp": 1785932400
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "8:30",
+      "timestamp": 1785972600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:25",
+      "timestamp": 1786001100
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:20",
+      "timestamp": 1786018800
     },
     {
       "theaterId": "3242",
@@ -52803,106 +52803,6 @@
     },
     {
       "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "8:25",
-      "timestamp": 1785626700
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "18:25",
-      "timestamp": 1785662700
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:15",
-      "timestamp": 1785741300
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "18:05",
-      "timestamp": 1785747900
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "18:05",
-      "timestamp": 1785834300
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:50",
-      "timestamp": 1785844200
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "15:50",
-      "timestamp": 1785912600
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "17:50",
-      "timestamp": 1785919800
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "18:05",
-      "timestamp": 1786007100
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:50",
-      "timestamp": 1786017000
-    },
-    {
-      "theaterId": "3124",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -53160,6 +53060,106 @@
       "date": "20260806",
       "time": "18:15",
       "timestamp": 1786007700
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "8:25",
+      "timestamp": 1785626700
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "18:25",
+      "timestamp": 1785662700
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:15",
+      "timestamp": 1785741300
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "18:05",
+      "timestamp": 1785747900
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "18:05",
+      "timestamp": 1785834300
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:50",
+      "timestamp": 1785844200
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "15:50",
+      "timestamp": 1785912600
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "17:50",
+      "timestamp": 1785919800
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "18:05",
+      "timestamp": 1786007100
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "20:50",
+      "timestamp": 1786017000
     },
     {
       "theaterId": "3124",
@@ -55573,116 +55573,6 @@
     },
     {
       "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "7:00",
-      "timestamp": 1785621600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "15:25",
-      "timestamp": 1785651900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "22:00",
-      "timestamp": 1785675600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "10:00",
-      "timestamp": 1785718800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:30",
-      "timestamp": 1785760200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "10:00",
-      "timestamp": 1785805200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:30",
-      "timestamp": 1785846600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "10:00",
-      "timestamp": 1785891600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:30",
-      "timestamp": 1785933000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "10:00",
-      "timestamp": 1785978000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:30",
-      "timestamp": 1786019400
-    },
-    {
-      "theaterId": "3304",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -56020,6 +55910,116 @@
       "date": "20260806",
       "time": "21:45",
       "timestamp": 1786020300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "7:00",
+      "timestamp": 1785621600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "15:25",
+      "timestamp": 1785651900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "22:00",
+      "timestamp": 1785675600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "10:00",
+      "timestamp": 1785718800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:30",
+      "timestamp": 1785760200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "10:00",
+      "timestamp": 1785805200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:30",
+      "timestamp": 1785846600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "10:00",
+      "timestamp": 1785891600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:30",
+      "timestamp": 1785933000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "10:00",
+      "timestamp": 1785978000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "21:30",
+      "timestamp": 1786019400
     },
     {
       "theaterId": "3304",
@@ -59413,116 +59413,6 @@
     },
     {
       "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "16:10",
-      "timestamp": 1785654600
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "18:45",
-      "timestamp": 1785663900
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "21:10",
-      "timestamp": 1785672600
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "16:35",
-      "timestamp": 1785742500
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "21:45",
-      "timestamp": 1785761100
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "16:35",
-      "timestamp": 1785828900
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "21:45",
-      "timestamp": 1785847500
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "17:00",
-      "timestamp": 1785916800
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "21:35",
-      "timestamp": 1785933300
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "16:35",
-      "timestamp": 1786001700
-    },
-    {
-      "theaterId": "3326",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "21:45",
-      "timestamp": 1786020300
-    },
-    {
-      "theaterId": "3326",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -59827,6 +59717,116 @@
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
       "runtimeMin": 102,
+      "date": "20260806",
+      "time": "21:45",
+      "timestamp": 1786020300
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "16:10",
+      "timestamp": 1785654600
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "18:45",
+      "timestamp": 1785663900
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "21:10",
+      "timestamp": 1785672600
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "16:35",
+      "timestamp": 1785742500
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "21:45",
+      "timestamp": 1785761100
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "16:35",
+      "timestamp": 1785828900
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "21:45",
+      "timestamp": 1785847500
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "17:00",
+      "timestamp": 1785916800
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "21:35",
+      "timestamp": 1785933300
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "16:35",
+      "timestamp": 1786001700
+    },
+    {
+      "theaterId": "3326",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
       "date": "20260806",
       "time": "21:45",
       "timestamp": 1786020300
@@ -62013,156 +62013,6 @@
     },
     {
       "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "15:25",
-      "timestamp": 1785651900
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "17:40",
-      "timestamp": 1785660000
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260802",
-      "time": "20:30",
-      "timestamp": 1785670200
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "15:25",
-      "timestamp": 1785738300
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "17:40",
-      "timestamp": 1785746400
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260803",
-      "time": "20:30",
-      "timestamp": 1785756600
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "15:25",
-      "timestamp": 1785824700
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "17:40",
-      "timestamp": 1785832800
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260804",
-      "time": "20:30",
-      "timestamp": 1785843000
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "15:25",
-      "timestamp": 1785911100
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "17:40",
-      "timestamp": 1785919200
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260805",
-      "time": "20:30",
-      "timestamp": 1785929400
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "15:25",
-      "timestamp": 1785997500
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "17:40",
-      "timestamp": 1786005600
-    },
-    {
-      "theaterId": "3305",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260806",
-      "time": "20:30",
-      "timestamp": 1786015800
-    },
-    {
-      "theaterId": "3305",
       "movieId": "104002",
       "title": "トイ・ストーリー5",
       "typeLabel": "吹替",
@@ -62520,6 +62370,156 @@
       "date": "20260806",
       "time": "20:00",
       "timestamp": 1786014000
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "15:25",
+      "timestamp": 1785651900
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "17:40",
+      "timestamp": 1785660000
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260802",
+      "time": "20:30",
+      "timestamp": 1785670200
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "15:25",
+      "timestamp": 1785738300
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "17:40",
+      "timestamp": 1785746400
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260803",
+      "time": "20:30",
+      "timestamp": 1785756600
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "15:25",
+      "timestamp": 1785824700
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "17:40",
+      "timestamp": 1785832800
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260804",
+      "time": "20:30",
+      "timestamp": 1785843000
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "15:25",
+      "timestamp": 1785911100
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "17:40",
+      "timestamp": 1785919200
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260805",
+      "time": "20:30",
+      "timestamp": 1785929400
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "15:25",
+      "timestamp": 1785997500
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "17:40",
+      "timestamp": 1786005600
+    },
+    {
+      "theaterId": "3305",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260806",
+      "time": "20:30",
+      "timestamp": 1786015800
     },
     {
       "theaterId": "3305",
