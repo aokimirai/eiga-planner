@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:36:42.933Z",
+  "generatedAt": "2026-08-07T08:07:29.569Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -40387,16 +40387,6 @@
       "title": "原爆資料館　語り継ぐものたち",
       "typeLabel": null,
       "runtimeMin": 101,
-      "date": "20260807",
-      "time": "12:45",
-      "timestamp": 1786074300
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
       "date": "20260808",
       "time": "13:25",
       "timestamp": 1786163100
@@ -40587,16 +40577,6 @@
       "title": "ひろしま",
       "typeLabel": null,
       "runtimeMin": 109,
-      "date": "20260807",
-      "time": "10:50",
-      "timestamp": 1786067400
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "41219",
-      "title": "ひろしま",
-      "typeLabel": null,
-      "runtimeMin": 109,
       "date": "20260808",
       "time": "11:25",
       "timestamp": 1786155900
@@ -40670,16 +40650,6 @@
       "date": "20260807",
       "time": "20:10",
       "timestamp": 1786101000
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106041",
-      "title": "心耳　耳を澄まさぬ表現者たち",
-      "typeLabel": null,
-      "runtimeMin": 70,
-      "date": "20260807",
-      "time": "9:30",
-      "timestamp": 1786062600
     },
     {
       "theaterId": "3130",
@@ -41440,6 +41410,16 @@
       "date": "20260807",
       "time": "11:05",
       "timestamp": 1786068300
+    },
+    {
+      "theaterId": "3278",
+      "movieId": "34088",
+      "title": "夕凪の街　桜の国",
+      "typeLabel": null,
+      "runtimeMin": 118,
+      "date": "20260812",
+      "time": "14:00",
+      "timestamp": 1786510800
     },
     {
       "theaterId": "3278",
@@ -63513,6 +63493,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106053",
+      "title": "白パンと独裁者",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260813",
+      "time": "16:10",
+      "timestamp": 1786605000
+    },
+    {
+      "theaterId": "3287",
       "movieId": "102093",
       "title": "Michael マイケル",
       "typeLabel": "字幕",
@@ -63570,6 +63560,16 @@
       "date": "20260812",
       "time": "11:20",
       "timestamp": 1786501200
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "102093",
+      "title": "Michael マイケル",
+      "typeLabel": "字幕",
+      "runtimeMin": 127,
+      "date": "20260813",
+      "time": "11:20",
+      "timestamp": 1786587600
     },
     {
       "theaterId": "3287",
@@ -63633,6 +63633,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "103908",
+      "title": "急に具合が悪くなる",
+      "typeLabel": "字幕",
+      "runtimeMin": 196,
+      "date": "20260813",
+      "time": "11:40",
+      "timestamp": 1786588800
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105612",
       "title": "プライベート・ケース",
       "typeLabel": "字幕",
@@ -63690,6 +63700,16 @@
       "date": "20260812",
       "time": "9:30",
       "timestamp": 1786494600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105612",
+      "title": "プライベート・ケース",
+      "typeLabel": "字幕",
+      "runtimeMin": 107,
+      "date": "20260813",
+      "time": "9:30",
+      "timestamp": 1786581000
     },
     {
       "theaterId": "3287",
@@ -63753,6 +63773,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106108",
+      "title": "ヒトラーの毒見役",
+      "typeLabel": "字幕",
+      "runtimeMin": 123,
+      "date": "20260813",
+      "time": "13:40",
+      "timestamp": 1786596000
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106065",
       "title": "怪速急行■■行き",
       "typeLabel": "字幕",
@@ -63810,6 +63840,16 @@
       "date": "20260812",
       "time": "15:55",
       "timestamp": 1786517700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106065",
+      "title": "怪速急行■■行き",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260813",
+      "time": "15:55",
+      "timestamp": 1786604100
     },
     {
       "theaterId": "3287",
@@ -63873,6 +63913,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "104818",
+      "title": "GOOD BOY グッドボーイ",
+      "typeLabel": "字幕",
+      "runtimeMin": 73,
+      "date": "20260813",
+      "time": "12:05",
+      "timestamp": 1786590300
+    },
+    {
+      "theaterId": "3287",
       "movieId": "103730",
       "title": "ヌーヴェルヴァーグ",
       "typeLabel": "字幕",
@@ -63930,6 +63980,16 @@
       "date": "20260812",
       "time": "15:25",
       "timestamp": 1786515900
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "103730",
+      "title": "ヌーヴェルヴァーグ",
+      "typeLabel": "字幕",
+      "runtimeMin": 106,
+      "date": "20260813",
+      "time": "15:25",
+      "timestamp": 1786602300
     },
     {
       "theaterId": "3287",
@@ -63993,6 +64053,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260813",
+      "time": "13:55",
+      "timestamp": 1786596900
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106117",
       "title": "原爆資料館　語り継ぐものたち",
       "typeLabel": null,
@@ -64050,6 +64120,16 @@
       "date": "20260812",
       "time": "9:15",
       "timestamp": 1786493700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260813",
+      "time": "9:15",
+      "timestamp": 1786580100
     },
     {
       "theaterId": "3287",
@@ -64113,6 +64193,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106220",
+      "title": "PEACOCK ピーコック",
+      "typeLabel": "字幕",
+      "runtimeMin": 102,
+      "date": "20260813",
+      "time": "17:40",
+      "timestamp": 1786610400
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105861",
       "title": "夢物語 The Living Dragon",
       "typeLabel": null,
@@ -64170,6 +64260,16 @@
       "date": "20260812",
       "time": "20:05",
       "timestamp": 1786532700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105861",
+      "title": "夢物語 The Living Dragon",
+      "typeLabel": null,
+      "runtimeMin": 78,
+      "date": "20260813",
+      "time": "20:05",
+      "timestamp": 1786619100
     },
     {
       "theaterId": "3287",
@@ -64233,6 +64333,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106237",
+      "title": "エレファント6レコーディング・カンパニー",
+      "typeLabel": null,
+      "runtimeMin": 93,
+      "date": "20260813",
+      "time": "19:45",
+      "timestamp": 1786617900
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105855",
       "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
       "typeLabel": null,
@@ -64290,6 +64400,16 @@
       "date": "20260812",
       "time": "17:55",
       "timestamp": 1786524900
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105855",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "typeLabel": null,
+      "runtimeMin": 108,
+      "date": "20260813",
+      "time": "17:55",
+      "timestamp": 1786611300
     },
     {
       "theaterId": "3287",
@@ -64353,6 +64473,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105943",
+      "title": "ザ・レイジ",
+      "typeLabel": "字幕",
+      "runtimeMin": 111,
+      "date": "20260813",
+      "time": "9:45",
+      "timestamp": 1786581900
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105325",
       "title": "デスストーカー",
       "typeLabel": "字幕",
@@ -64413,6 +64543,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105325",
+      "title": "デスストーカー",
+      "typeLabel": "字幕",
+      "runtimeMin": 103,
+      "date": "20260813",
+      "time": "18:10",
+      "timestamp": 1786612200
+    },
+    {
+      "theaterId": "3287",
       "movieId": "103187",
       "title": "フランキー・フリーコ",
       "typeLabel": "字幕",
@@ -64470,6 +64610,16 @@
       "date": "20260812",
       "time": "20:20",
       "timestamp": 1786533600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "103187",
+      "title": "フランキー・フリーコ",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260813",
+      "time": "20:20",
+      "timestamp": 1786620000
     },
     {
       "theaterId": "3324",
