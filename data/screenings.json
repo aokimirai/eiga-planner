@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:43:58.195Z",
+  "generatedAt": "2026-08-08T07:41:38.292Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -6713,6 +6713,16 @@
     },
     {
       "theaterId": "3325",
+      "movieId": "103293",
+      "title": "ナイトフラワー",
+      "typeLabel": null,
+      "runtimeMin": 124,
+      "date": "20260814",
+      "time": "12:45",
+      "timestamp": 1786679100
+    },
+    {
+      "theaterId": "3325",
       "movieId": "105015",
       "title": "マーティ・シュプリーム　世界をつかめ",
       "typeLabel": "字幕",
@@ -6760,16 +6770,6 @@
       "date": "20260813",
       "time": "14:50",
       "timestamp": 1786600200
-    },
-    {
-      "theaterId": "3325",
-      "movieId": "103293",
-      "title": "ナイトフラワー",
-      "typeLabel": null,
-      "runtimeMin": 124,
-      "date": "20260814",
-      "time": "12:45",
-      "timestamp": 1786679100
     },
     {
       "theaterId": "3325",
@@ -24143,66 +24143,6 @@
     },
     {
       "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260808",
-      "time": "16:50",
-      "timestamp": 1786175400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260809",
-      "time": "16:50",
-      "timestamp": 1786261800
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260810",
-      "time": "16:50",
-      "timestamp": 1786348200
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260811",
-      "time": "16:50",
-      "timestamp": 1786434600
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260812",
-      "time": "15:25",
-      "timestamp": 1786515900
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260813",
-      "time": "15:25",
-      "timestamp": 1786602300
-    },
-    {
-      "theaterId": "3123",
       "movieId": "1587",
       "title": "パプリカ",
       "typeLabel": null,
@@ -24260,6 +24200,66 @@
       "date": "20260813",
       "time": "16:25",
       "timestamp": 1786605900
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260808",
+      "time": "16:50",
+      "timestamp": 1786175400
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260809",
+      "time": "16:50",
+      "timestamp": 1786261800
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260810",
+      "time": "16:50",
+      "timestamp": 1786348200
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260811",
+      "time": "16:50",
+      "timestamp": 1786434600
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260812",
+      "time": "15:25",
+      "timestamp": 1786515900
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260813",
+      "time": "15:25",
+      "timestamp": 1786602300
     },
     {
       "theaterId": "3120",
@@ -34643,76 +34643,6 @@
     },
     {
       "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260808",
-      "time": "13:25",
-      "timestamp": 1786163100
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260809",
-      "time": "13:25",
-      "timestamp": 1786249500
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260810",
-      "time": "13:25",
-      "timestamp": 1786335900
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260811",
-      "time": "13:25",
-      "timestamp": 1786422300
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260812",
-      "time": "13:25",
-      "timestamp": 1786508700
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260813",
-      "time": "13:25",
-      "timestamp": 1786595100
-    },
-    {
-      "theaterId": "3130",
-      "movieId": "106117",
-      "title": "原爆資料館　語り継ぐものたち",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260814",
-      "time": "13:25",
-      "timestamp": 1786681500
-    },
-    {
-      "theaterId": "3130",
       "movieId": "106211",
       "title": "軍服を着た神様",
       "typeLabel": null,
@@ -34780,6 +34710,76 @@
       "date": "20260814",
       "time": "15:20",
       "timestamp": 1786688400
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260808",
+      "time": "13:25",
+      "timestamp": 1786163100
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260809",
+      "time": "13:25",
+      "timestamp": 1786249500
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260810",
+      "time": "13:25",
+      "timestamp": 1786335900
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260811",
+      "time": "13:25",
+      "timestamp": 1786422300
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260812",
+      "time": "13:25",
+      "timestamp": 1786508700
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260813",
+      "time": "13:25",
+      "timestamp": 1786595100
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106117",
+      "title": "原爆資料館　語り継ぐものたち",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260814",
+      "time": "13:25",
+      "timestamp": 1786681500
     },
     {
       "theaterId": "3130",
@@ -35133,76 +35133,6 @@
     },
     {
       "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260808",
-      "time": "13:00",
-      "timestamp": 1786161600
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260809",
-      "time": "13:00",
-      "timestamp": 1786248000
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260810",
-      "time": "13:00",
-      "timestamp": 1786334400
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260811",
-      "time": "13:00",
-      "timestamp": 1786420800
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260812",
-      "time": "13:00",
-      "timestamp": 1786507200
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260813",
-      "time": "13:00",
-      "timestamp": 1786593600
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
-      "date": "20260814",
-      "time": "13:00",
-      "timestamp": 1786680000
-    },
-    {
-      "theaterId": "3247",
       "movieId": "106121",
       "title": "偏向報道",
       "typeLabel": null,
@@ -35270,6 +35200,76 @@
       "date": "20260814",
       "time": "11:10",
       "timestamp": 1786673400
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260808",
+      "time": "13:00",
+      "timestamp": 1786161600
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260809",
+      "time": "13:00",
+      "timestamp": 1786248000
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260810",
+      "time": "13:00",
+      "timestamp": 1786334400
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260811",
+      "time": "13:00",
+      "timestamp": 1786420800
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260812",
+      "time": "13:00",
+      "timestamp": 1786507200
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260813",
+      "time": "13:00",
+      "timestamp": 1786593600
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105893",
+      "title": "トロフィー",
+      "typeLabel": null,
+      "runtimeMin": 103,
+      "date": "20260814",
+      "time": "13:00",
+      "timestamp": 1786680000
     },
     {
       "theaterId": "3247",
@@ -35483,6 +35483,66 @@
     },
     {
       "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260808",
+      "time": "16:55",
+      "timestamp": 1786175700
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260809",
+      "time": "16:55",
+      "timestamp": 1786262100
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260810",
+      "time": "16:55",
+      "timestamp": 1786348500
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260811",
+      "time": "16:55",
+      "timestamp": 1786434900
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260812",
+      "time": "16:55",
+      "timestamp": 1786521300
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "105995",
+      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260813",
+      "time": "16:55",
+      "timestamp": 1786607700
+    },
+    {
+      "theaterId": "3247",
       "movieId": "106101",
       "title": "無敵なカタチ",
       "typeLabel": null,
@@ -35550,66 +35610,6 @@
       "date": "20260814",
       "time": "17:45",
       "timestamp": 1786697100
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260808",
-      "time": "16:55",
-      "timestamp": 1786175700
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260809",
-      "time": "16:55",
-      "timestamp": 1786262100
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260810",
-      "time": "16:55",
-      "timestamp": 1786348500
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260811",
-      "time": "16:55",
-      "timestamp": 1786434900
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260812",
-      "time": "16:55",
-      "timestamp": 1786521300
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105995",
-      "title": "残響のメロディ　魂の放浪者ニコ、最後の旅路",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260813",
-      "time": "16:55",
-      "timestamp": 1786607700
     },
     {
       "theaterId": "3247",
@@ -35963,6 +35963,26 @@
     },
     {
       "theaterId": "3288",
+      "movieId": "1587",
+      "title": "パプリカ",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260813",
+      "time": "14:30",
+      "timestamp": 1786599000
+    },
+    {
+      "theaterId": "3288",
+      "movieId": "1587",
+      "title": "パプリカ",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260814",
+      "time": "14:30",
+      "timestamp": 1786685400
+    },
+    {
+      "theaterId": "3288",
       "movieId": "8002",
       "title": "勝手にしやがれ",
       "typeLabel": "字幕",
@@ -36010,26 +36030,6 @@
       "date": "20260812",
       "time": "12:15",
       "timestamp": 1786504500
-    },
-    {
-      "theaterId": "3288",
-      "movieId": "1587",
-      "title": "パプリカ",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260813",
-      "time": "14:30",
-      "timestamp": 1786599000
-    },
-    {
-      "theaterId": "3288",
-      "movieId": "1587",
-      "title": "パプリカ",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260814",
-      "time": "14:30",
-      "timestamp": 1786685400
     },
     {
       "theaterId": "3288",
@@ -39463,66 +39463,6 @@
     },
     {
       "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260808",
-      "time": "8:30",
-      "timestamp": 1786145400
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260809",
-      "time": "8:30",
-      "timestamp": 1786231800
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260810",
-      "time": "8:30",
-      "timestamp": 1786318200
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260811",
-      "time": "8:30",
-      "timestamp": 1786404600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260812",
-      "time": "8:30",
-      "timestamp": 1786491000
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260813",
-      "time": "8:30",
-      "timestamp": 1786577400
-    },
-    {
-      "theaterId": "3136",
       "movieId": "1587",
       "title": "パプリカ",
       "typeLabel": null,
@@ -39580,6 +39520,66 @@
       "date": "20260813",
       "time": "19:35",
       "timestamp": 1786617300
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260808",
+      "time": "8:30",
+      "timestamp": 1786145400
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260809",
+      "time": "8:30",
+      "timestamp": 1786231800
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260810",
+      "time": "8:30",
+      "timestamp": 1786318200
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260811",
+      "time": "8:30",
+      "timestamp": 1786404600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260812",
+      "time": "8:30",
+      "timestamp": 1786491000
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260813",
+      "time": "8:30",
+      "timestamp": 1786577400
     },
     {
       "theaterId": "3296",
@@ -42823,66 +42823,6 @@
     },
     {
       "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260808",
-      "time": "8:20",
-      "timestamp": 1786144800
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260809",
-      "time": "8:20",
-      "timestamp": 1786231200
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260810",
-      "time": "8:20",
-      "timestamp": 1786317600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260811",
-      "time": "8:20",
-      "timestamp": 1786404000
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260812",
-      "time": "8:20",
-      "timestamp": 1786490400
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105459",
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "typeLabel": null,
-      "runtimeMin": 62,
-      "date": "20260813",
-      "time": "8:20",
-      "timestamp": 1786576800
-    },
-    {
-      "theaterId": "3296",
       "movieId": "1587",
       "title": "パプリカ",
       "typeLabel": null,
@@ -42940,6 +42880,66 @@
       "date": "20260813",
       "time": "17:30",
       "timestamp": 1786609800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260808",
+      "time": "8:20",
+      "timestamp": 1786144800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260809",
+      "time": "8:20",
+      "timestamp": 1786231200
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260810",
+      "time": "8:20",
+      "timestamp": 1786317600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260811",
+      "time": "8:20",
+      "timestamp": 1786404000
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260812",
+      "time": "8:20",
+      "timestamp": 1786490400
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105459",
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "typeLabel": null,
+      "runtimeMin": 62,
+      "date": "20260813",
+      "time": "8:20",
+      "timestamp": 1786576800
     },
     {
       "theaterId": "3266",
@@ -55183,66 +55183,6 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260808",
-      "time": "13:55",
-      "timestamp": 1786164900
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260809",
-      "time": "13:55",
-      "timestamp": 1786251300
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260810",
-      "time": "13:55",
-      "timestamp": 1786337700
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260811",
-      "time": "13:55",
-      "timestamp": 1786424100
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260812",
-      "time": "13:55",
-      "timestamp": 1786510500
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105729",
-      "title": "氷血",
-      "typeLabel": null,
-      "runtimeMin": 98,
-      "date": "20260813",
-      "time": "13:55",
-      "timestamp": 1786596900
-    },
-    {
-      "theaterId": "3287",
       "movieId": "106117",
       "title": "原爆資料館　語り継ぐものたち",
       "typeLabel": null,
@@ -55300,6 +55240,66 @@
       "date": "20260813",
       "time": "9:15",
       "timestamp": 1786580100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260808",
+      "time": "13:55",
+      "timestamp": 1786164900
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260809",
+      "time": "13:55",
+      "timestamp": 1786251300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260810",
+      "time": "13:55",
+      "timestamp": 1786337700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260811",
+      "time": "13:55",
+      "timestamp": 1786424100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260812",
+      "time": "13:55",
+      "timestamp": 1786510500
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105729",
+      "title": "氷血",
+      "typeLabel": null,
+      "runtimeMin": 98,
+      "date": "20260813",
+      "time": "13:55",
+      "timestamp": 1786596900
     },
     {
       "theaterId": "3287",
@@ -60433,6 +60433,36 @@
     },
     {
       "theaterId": "3289",
+      "movieId": "40525",
+      "title": "ハッシュ！",
+      "typeLabel": null,
+      "runtimeMin": 135,
+      "date": "20260810",
+      "time": "20:10",
+      "timestamp": 1786360200
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "40525",
+      "title": "ハッシュ！",
+      "typeLabel": null,
+      "runtimeMin": 135,
+      "date": "20260812",
+      "time": "20:10",
+      "timestamp": 1786533000
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "40525",
+      "title": "ハッシュ！",
+      "typeLabel": null,
+      "runtimeMin": 135,
+      "date": "20260813",
+      "time": "20:10",
+      "timestamp": 1786619400
+    },
+    {
+      "theaterId": "3289",
       "movieId": "104298",
       "title": "四十九 SEEK",
       "typeLabel": null,
@@ -60490,36 +60520,6 @@
       "date": "20260813",
       "time": "19:10",
       "timestamp": 1786615800
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "40525",
-      "title": "ハッシュ！",
-      "typeLabel": null,
-      "runtimeMin": 135,
-      "date": "20260810",
-      "time": "20:10",
-      "timestamp": 1786360200
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "40525",
-      "title": "ハッシュ！",
-      "typeLabel": null,
-      "runtimeMin": 135,
-      "date": "20260812",
-      "time": "20:10",
-      "timestamp": 1786533000
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "40525",
-      "title": "ハッシュ！",
-      "typeLabel": null,
-      "runtimeMin": 135,
-      "date": "20260813",
-      "time": "20:10",
-      "timestamp": 1786619400
     },
     {
       "theaterId": "3289",
