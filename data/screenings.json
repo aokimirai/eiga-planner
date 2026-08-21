@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:23:40.935Z",
+  "generatedAt": "2026-08-21T07:35:48.069Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -7893,216 +7893,6 @@
     },
     {
       "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "8:20",
-      "timestamp": 1787268000
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "14:10",
-      "timestamp": 1787289000
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "21:20",
-      "timestamp": 1787314800
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "8:35",
-      "timestamp": 1787355300
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "13:10",
-      "timestamp": 1787371800
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "19:10",
-      "timestamp": 1787393400
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "8:20",
-      "timestamp": 1787440800
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "13:00",
-      "timestamp": 1787457600
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "19:15",
-      "timestamp": 1787480100
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "8:20",
-      "timestamp": 1787527200
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "13:25",
-      "timestamp": 1787545500
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "19:15",
-      "timestamp": 1787566500
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "8:20",
-      "timestamp": 1787613600
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "13:25",
-      "timestamp": 1787631900
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "19:15",
-      "timestamp": 1787652900
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "8:20",
-      "timestamp": 1787700000
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "13:25",
-      "timestamp": 1787718300
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "19:15",
-      "timestamp": 1787739300
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "8:25",
-      "timestamp": 1787786700
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "13:20",
-      "timestamp": 1787804400
-    },
-    {
-      "theaterId": "3145",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "18:45",
-      "timestamp": 1787823900
-    },
-    {
-      "theaterId": "3145",
       "movieId": "106214",
       "title": "グレイ・ミッション",
       "typeLabel": "字幕",
@@ -8310,6 +8100,216 @@
       "date": "20260827",
       "time": "21:40",
       "timestamp": 1787834400
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "8:20",
+      "timestamp": 1787268000
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "14:10",
+      "timestamp": 1787289000
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "21:20",
+      "timestamp": 1787314800
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "8:35",
+      "timestamp": 1787355300
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "13:10",
+      "timestamp": 1787371800
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "19:10",
+      "timestamp": 1787393400
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "8:20",
+      "timestamp": 1787440800
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "13:00",
+      "timestamp": 1787457600
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "19:15",
+      "timestamp": 1787480100
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "8:20",
+      "timestamp": 1787527200
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "13:25",
+      "timestamp": 1787545500
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "19:15",
+      "timestamp": 1787566500
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "8:20",
+      "timestamp": 1787613600
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "13:25",
+      "timestamp": 1787631900
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "19:15",
+      "timestamp": 1787652900
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "8:20",
+      "timestamp": 1787700000
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "13:25",
+      "timestamp": 1787718300
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "19:15",
+      "timestamp": 1787739300
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "8:25",
+      "timestamp": 1787786700
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "13:20",
+      "timestamp": 1787804400
+    },
+    {
+      "theaterId": "3145",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "18:45",
+      "timestamp": 1787823900
     },
     {
       "theaterId": "3145",
@@ -12063,216 +12063,6 @@
     },
     {
       "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "11:00",
-      "timestamp": 1787277600
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "14:50",
-      "timestamp": 1787291400
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "21:50",
-      "timestamp": 1787316600
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "11:05",
-      "timestamp": 1787364300
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "14:45",
-      "timestamp": 1787377500
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "21:50",
-      "timestamp": 1787403000
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "11:05",
-      "timestamp": 1787450700
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "16:50",
-      "timestamp": 1787471400
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "21:35",
-      "timestamp": 1787488500
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "11:00",
-      "timestamp": 1787536800
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "14:50",
-      "timestamp": 1787550600
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "21:50",
-      "timestamp": 1787575800
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "11:00",
-      "timestamp": 1787623200
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "14:50",
-      "timestamp": 1787637000
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "21:50",
-      "timestamp": 1787662200
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "11:00",
-      "timestamp": 1787709600
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "14:50",
-      "timestamp": 1787723400
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "21:50",
-      "timestamp": 1787748600
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "11:00",
-      "timestamp": 1787796000
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "14:50",
-      "timestamp": 1787809800
-    },
-    {
-      "theaterId": "3135",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "21:50",
-      "timestamp": 1787835000
-    },
-    {
-      "theaterId": "3135",
       "movieId": "106214",
       "title": "グレイ・ミッション",
       "typeLabel": "字幕",
@@ -12480,6 +12270,216 @@
       "date": "20260827",
       "time": "22:00",
       "timestamp": 1787835600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "11:00",
+      "timestamp": 1787277600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "14:50",
+      "timestamp": 1787291400
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "21:50",
+      "timestamp": 1787316600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "11:05",
+      "timestamp": 1787364300
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "14:45",
+      "timestamp": 1787377500
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "21:50",
+      "timestamp": 1787403000
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "11:05",
+      "timestamp": 1787450700
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "16:50",
+      "timestamp": 1787471400
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "21:35",
+      "timestamp": 1787488500
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "11:00",
+      "timestamp": 1787536800
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "14:50",
+      "timestamp": 1787550600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "21:50",
+      "timestamp": 1787575800
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "11:00",
+      "timestamp": 1787623200
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "14:50",
+      "timestamp": 1787637000
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "21:50",
+      "timestamp": 1787662200
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "11:00",
+      "timestamp": 1787709600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "14:50",
+      "timestamp": 1787723400
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "21:50",
+      "timestamp": 1787748600
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "11:00",
+      "timestamp": 1787796000
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "14:50",
+      "timestamp": 1787809800
+    },
+    {
+      "theaterId": "3135",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "21:50",
+      "timestamp": 1787835000
     },
     {
       "theaterId": "3135",
@@ -23813,6 +23813,146 @@
     },
     {
       "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "20:00",
+      "timestamp": 1787310000
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "20:00",
+      "timestamp": 1787396400
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "21:05",
+      "timestamp": 1787486700
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "20:00",
+      "timestamp": 1787569200
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "20:00",
+      "timestamp": 1787655600
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "20:00",
+      "timestamp": 1787742000
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "20:00",
+      "timestamp": 1787828400
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "15:35",
+      "timestamp": 1787294100
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "15:35",
+      "timestamp": 1787380500
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "15:35",
+      "timestamp": 1787466900
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "15:35",
+      "timestamp": 1787553300
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "15:35",
+      "timestamp": 1787639700
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "15:35",
+      "timestamp": 1787726100
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "15:35",
+      "timestamp": 1787812500
+    },
+    {
+      "theaterId": "3123",
       "movieId": "105977",
       "title": "ドラマなふたり",
       "typeLabel": "字幕",
@@ -24020,146 +24160,6 @@
       "date": "20260827",
       "time": "20:50",
       "timestamp": 1787831400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "20:00",
-      "timestamp": 1787310000
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "20:00",
-      "timestamp": 1787396400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "21:05",
-      "timestamp": 1787486700
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "20:00",
-      "timestamp": 1787569200
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "20:00",
-      "timestamp": 1787655600
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "20:00",
-      "timestamp": 1787742000
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "20:00",
-      "timestamp": 1787828400
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "15:35",
-      "timestamp": 1787294100
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "15:35",
-      "timestamp": 1787380500
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "15:35",
-      "timestamp": 1787466900
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "15:35",
-      "timestamp": 1787553300
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "15:35",
-      "timestamp": 1787639700
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "15:35",
-      "timestamp": 1787726100
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "15:35",
-      "timestamp": 1787812500
     },
     {
       "theaterId": "3123",
@@ -36483,6 +36483,76 @@
     },
     {
       "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260821",
+      "time": "17:15",
+      "timestamp": 1787300100
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260822",
+      "time": "19:50",
+      "timestamp": 1787395800
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260823",
+      "time": "19:50",
+      "timestamp": 1787482200
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260824",
+      "time": "19:50",
+      "timestamp": 1787568600
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260825",
+      "time": "19:50",
+      "timestamp": 1787655000
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260826",
+      "time": "19:50",
+      "timestamp": 1787741400
+    },
+    {
+      "theaterId": "3247",
+      "movieId": "100416",
+      "title": "タイガー・ストライプス",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260827",
+      "time": "19:50",
+      "timestamp": 1787827800
+    },
+    {
+      "theaterId": "3247",
       "movieId": "105074",
       "title": "未来",
       "typeLabel": null,
@@ -36610,76 +36680,6 @@
       "date": "20260827",
       "time": "17:20",
       "timestamp": 1787818800
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260821",
-      "time": "17:15",
-      "timestamp": 1787300100
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260822",
-      "time": "19:50",
-      "timestamp": 1787395800
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260823",
-      "time": "19:50",
-      "timestamp": 1787482200
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260824",
-      "time": "19:50",
-      "timestamp": 1787568600
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260825",
-      "time": "19:50",
-      "timestamp": 1787655000
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260826",
-      "time": "19:50",
-      "timestamp": 1787741400
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "100416",
-      "title": "タイガー・ストライプス",
-      "typeLabel": "字幕",
-      "runtimeMin": 95,
-      "date": "20260827",
-      "time": "19:50",
-      "timestamp": 1787827800
     },
     {
       "theaterId": "3247",
@@ -37003,16 +37003,6 @@
     },
     {
       "theaterId": "3138",
-      "movieId": "104590",
-      "title": "木挽町のあだ討ち",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260821",
-      "time": "14:20",
-      "timestamp": 1787289600
-    },
-    {
-      "theaterId": "3138",
       "movieId": "104898",
       "title": "左利きの少女",
       "typeLabel": "字幕",
@@ -37060,6 +37050,16 @@
       "date": "20260827",
       "time": "16:25",
       "timestamp": 1787815500
+    },
+    {
+      "theaterId": "3138",
+      "movieId": "104590",
+      "title": "木挽町のあだ討ち",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260821",
+      "time": "14:20",
+      "timestamp": 1787289600
     },
     {
       "theaterId": "3138",
@@ -37313,6 +37313,196 @@
     },
     {
       "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "13:55",
+      "timestamp": 1787288100
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "18:50",
+      "timestamp": 1787305800
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "12:35",
+      "timestamp": 1787369700
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "12:55",
+      "timestamp": 1787457300
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "13:55",
+      "timestamp": 1787547300
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "18:50",
+      "timestamp": 1787565000
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "13:55",
+      "timestamp": 1787633700
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "18:50",
+      "timestamp": 1787651400
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "13:55",
+      "timestamp": 1787720100
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "18:50",
+      "timestamp": 1787737800
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "13:55",
+      "timestamp": 1787806500
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "18:50",
+      "timestamp": 1787824200
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "9:00",
+      "timestamp": 1787270400
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "19:30",
+      "timestamp": 1787394600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "19:25",
+      "timestamp": 1787480700
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "9:00",
+      "timestamp": 1787529600
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "9:00",
+      "timestamp": 1787616000
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "9:00",
+      "timestamp": 1787702400
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "吹替",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "9:00",
+      "timestamp": 1787788800
+    },
+    {
+      "theaterId": "3136",
       "movieId": "105977",
       "title": "ドラマなふたり",
       "typeLabel": "字幕",
@@ -37510,196 +37700,6 @@
       "date": "20260827",
       "time": "21:45",
       "timestamp": 1787834700
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "13:55",
-      "timestamp": 1787288100
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "18:50",
-      "timestamp": 1787305800
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "12:35",
-      "timestamp": 1787369700
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "12:55",
-      "timestamp": 1787457300
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "13:55",
-      "timestamp": 1787547300
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "18:50",
-      "timestamp": 1787565000
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "13:55",
-      "timestamp": 1787633700
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "18:50",
-      "timestamp": 1787651400
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "13:55",
-      "timestamp": 1787720100
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "18:50",
-      "timestamp": 1787737800
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "13:55",
-      "timestamp": 1787806500
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "18:50",
-      "timestamp": 1787824200
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "9:00",
-      "timestamp": 1787270400
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "19:30",
-      "timestamp": 1787394600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "19:25",
-      "timestamp": 1787480700
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "9:00",
-      "timestamp": 1787529600
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "9:00",
-      "timestamp": 1787616000
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "9:00",
-      "timestamp": 1787702400
-    },
-    {
-      "theaterId": "3136",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "吹替",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "9:00",
-      "timestamp": 1787788800
     },
     {
       "theaterId": "3136",
@@ -41133,216 +41133,6 @@
     },
     {
       "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "11:00",
-      "timestamp": 1787277600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "16:15",
-      "timestamp": 1787296500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260821",
-      "time": "20:55",
-      "timestamp": 1787313300
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "11:00",
-      "timestamp": 1787364000
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "16:40",
-      "timestamp": 1787384400
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260822",
-      "time": "20:50",
-      "timestamp": 1787399400
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "8:25",
-      "timestamp": 1787441100
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "13:00",
-      "timestamp": 1787457600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260823",
-      "time": "20:45",
-      "timestamp": 1787485500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "11:00",
-      "timestamp": 1787536800
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "16:15",
-      "timestamp": 1787555700
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260824",
-      "time": "20:55",
-      "timestamp": 1787572500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "11:00",
-      "timestamp": 1787623200
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "16:15",
-      "timestamp": 1787642100
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260825",
-      "time": "20:55",
-      "timestamp": 1787658900
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "11:00",
-      "timestamp": 1787709600
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "16:15",
-      "timestamp": 1787728500
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260826",
-      "time": "20:55",
-      "timestamp": 1787745300
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "11:00",
-      "timestamp": 1787796000
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "16:15",
-      "timestamp": 1787814900
-    },
-    {
-      "theaterId": "3296",
-      "movieId": "105977",
-      "title": "ドラマなふたり",
-      "typeLabel": "字幕",
-      "runtimeMin": 105,
-      "date": "20260827",
-      "time": "20:55",
-      "timestamp": 1787831700
-    },
-    {
-      "theaterId": "3296",
       "movieId": "106214",
       "title": "グレイ・ミッション",
       "typeLabel": "字幕",
@@ -41550,6 +41340,216 @@
       "date": "20260827",
       "time": "12:55",
       "timestamp": 1787802900
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "11:00",
+      "timestamp": 1787277600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "16:15",
+      "timestamp": 1787296500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260821",
+      "time": "20:55",
+      "timestamp": 1787313300
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "11:00",
+      "timestamp": 1787364000
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "16:40",
+      "timestamp": 1787384400
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260822",
+      "time": "20:50",
+      "timestamp": 1787399400
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "8:25",
+      "timestamp": 1787441100
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "13:00",
+      "timestamp": 1787457600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260823",
+      "time": "20:45",
+      "timestamp": 1787485500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "11:00",
+      "timestamp": 1787536800
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "16:15",
+      "timestamp": 1787555700
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260824",
+      "time": "20:55",
+      "timestamp": 1787572500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "11:00",
+      "timestamp": 1787623200
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "16:15",
+      "timestamp": 1787642100
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260825",
+      "time": "20:55",
+      "timestamp": 1787658900
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "11:00",
+      "timestamp": 1787709600
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "16:15",
+      "timestamp": 1787728500
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260826",
+      "time": "20:55",
+      "timestamp": 1787745300
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "11:00",
+      "timestamp": 1787796000
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "16:15",
+      "timestamp": 1787814900
+    },
+    {
+      "theaterId": "3296",
+      "movieId": "105977",
+      "title": "ドラマなふたり",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "20:55",
+      "timestamp": 1787831700
     },
     {
       "theaterId": "3296",
@@ -45143,6 +45143,76 @@
     },
     {
       "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "17:00",
+      "timestamp": 1787299200
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "17:20",
+      "timestamp": 1787386800
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "17:00",
+      "timestamp": 1787472000
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "16:15",
+      "timestamp": 1787555700
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "16:15",
+      "timestamp": 1787642100
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "16:15",
+      "timestamp": 1787728500
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "16:15",
+      "timestamp": 1787814900
+    },
+    {
+      "theaterId": "3250",
       "movieId": "105977",
       "title": "ドラマなふたり",
       "typeLabel": "字幕",
@@ -45320,76 +45390,6 @@
       "date": "20260827",
       "time": "21:30",
       "timestamp": 1787833800
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "17:00",
-      "timestamp": 1787299200
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "17:20",
-      "timestamp": 1787386800
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "17:00",
-      "timestamp": 1787472000
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "16:15",
-      "timestamp": 1787555700
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "16:15",
-      "timestamp": 1787642100
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "16:15",
-      "timestamp": 1787728500
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "16:15",
-      "timestamp": 1787814900
     },
     {
       "theaterId": "3250",
@@ -55163,16 +55163,6 @@
     },
     {
       "theaterId": "3144",
-      "movieId": "106589",
-      "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
-      "typeLabel": null,
-      "runtimeMin": 65,
-      "date": "20260822",
-      "time": "15:00",
-      "timestamp": 1787378400
-    },
-    {
-      "theaterId": "3144",
       "movieId": "105951",
       "title": "Mirai 運命の戦士",
       "typeLabel": "字幕",
@@ -55240,6 +55230,16 @@
       "date": "20260827",
       "time": "10:00",
       "timestamp": 1787792400
+    },
+    {
+      "theaterId": "3144",
+      "movieId": "106589",
+      "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
+      "typeLabel": null,
+      "runtimeMin": 65,
+      "date": "20260822",
+      "time": "15:00",
+      "timestamp": 1787378400
     },
     {
       "theaterId": "3144",
@@ -58723,6 +58723,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "56219",
+      "title": "ムカデ人間",
+      "typeLabel": "字幕",
+      "runtimeMin": 92,
+      "date": "20260827",
+      "time": "14:05",
+      "timestamp": 1787807100
+    },
+    {
+      "theaterId": "3287",
       "movieId": "102093",
       "title": "Michael マイケル",
       "typeLabel": "字幕",
@@ -58780,6 +58790,16 @@
       "date": "20260826",
       "time": "9:40",
       "timestamp": 1787704800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "102093",
+      "title": "Michael マイケル",
+      "typeLabel": "字幕",
+      "runtimeMin": 127,
+      "date": "20260827",
+      "time": "9:40",
+      "timestamp": 1787791200
     },
     {
       "theaterId": "3287",
@@ -58843,6 +58863,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106040",
+      "title": "プリミティヴ・ウォー　恐竜戦争",
+      "typeLabel": "字幕",
+      "runtimeMin": 133,
+      "date": "20260827",
+      "time": "17:00",
+      "timestamp": 1787817600
+    },
+    {
+      "theaterId": "3287",
       "movieId": "104898",
       "title": "左利きの少女",
       "typeLabel": "字幕",
@@ -58900,6 +58930,16 @@
       "date": "20260826",
       "time": "18:00",
       "timestamp": 1787734800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "104898",
+      "title": "左利きの少女",
+      "typeLabel": "字幕",
+      "runtimeMin": 108,
+      "date": "20260827",
+      "time": "18:00",
+      "timestamp": 1787821200
     },
     {
       "theaterId": "3287",
@@ -58963,6 +59003,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260827",
+      "time": "9:15",
+      "timestamp": 1787789700
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106053",
       "title": "白パンと独裁者",
       "typeLabel": "字幕",
@@ -59020,6 +59070,16 @@
       "date": "20260826",
       "time": "20:10",
       "timestamp": 1787742600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106053",
+      "title": "白パンと独裁者",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260827",
+      "time": "20:10",
+      "timestamp": 1787829000
     },
     {
       "theaterId": "3287",
@@ -59083,63 +59143,13 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260821",
-      "time": "12:10",
-      "timestamp": 1787281800
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260822",
-      "time": "12:10",
-      "timestamp": 1787368200
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260823",
-      "time": "12:10",
-      "timestamp": 1787454600
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260824",
-      "time": "12:10",
-      "timestamp": 1787541000
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260825",
-      "time": "12:10",
-      "timestamp": 1787627400
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "106121",
-      "title": "偏向報道",
-      "typeLabel": null,
-      "runtimeMin": 90,
-      "date": "20260826",
-      "time": "12:10",
-      "timestamp": 1787713800
+      "movieId": "105907",
+      "title": "隣人たち",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260827",
+      "time": "12:40",
+      "timestamp": 1787802000
     },
     {
       "theaterId": "3287",
@@ -59203,6 +59213,86 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "104925",
+      "title": "大統領のケーキ",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260827",
+      "time": "12:25",
+      "timestamp": 1787801100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260821",
+      "time": "12:10",
+      "timestamp": 1787281800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260822",
+      "time": "12:10",
+      "timestamp": 1787368200
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260823",
+      "time": "12:10",
+      "timestamp": 1787454600
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260824",
+      "time": "12:10",
+      "timestamp": 1787541000
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260825",
+      "time": "12:10",
+      "timestamp": 1787627400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260826",
+      "time": "12:10",
+      "timestamp": 1787713800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106121",
+      "title": "偏向報道",
+      "typeLabel": null,
+      "runtimeMin": 90,
+      "date": "20260827",
+      "time": "12:10",
+      "timestamp": 1787800200
+    },
+    {
+      "theaterId": "3287",
       "movieId": "53383",
       "title": "ぐるりのこと。",
       "typeLabel": null,
@@ -59260,6 +59350,16 @@
       "date": "20260826",
       "time": "14:40",
       "timestamp": 1787722800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "53383",
+      "title": "ぐるりのこと。",
+      "typeLabel": null,
+      "runtimeMin": 140,
+      "date": "20260827",
+      "time": "14:40",
+      "timestamp": 1787809200
     },
     {
       "theaterId": "3287",
@@ -59323,6 +59423,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "40525",
+      "title": "ハッシュ！",
+      "typeLabel": null,
+      "runtimeMin": 135,
+      "date": "20260827",
+      "time": "17:25",
+      "timestamp": 1787819100
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106107",
       "title": "ストレンジ・ハーベスト　インランド・エンパイアの怪事件",
       "typeLabel": "字幕",
@@ -59383,6 +59493,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106107",
+      "title": "ストレンジ・ハーベスト　インランド・エンパイアの怪事件",
+      "typeLabel": "字幕",
+      "runtimeMin": 93,
+      "date": "20260827",
+      "time": "20:15",
+      "timestamp": 1787829300
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105752",
       "title": "劇場版　旅人検視官　道場修作",
       "typeLabel": null,
@@ -59440,6 +59560,16 @@
       "date": "20260826",
       "time": "14:35",
       "timestamp": 1787722500
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105752",
+      "title": "劇場版　旅人検視官　道場修作",
+      "typeLabel": null,
+      "runtimeMin": 118,
+      "date": "20260827",
+      "time": "14:35",
+      "timestamp": 1787808900
     },
     {
       "theaterId": "3287",
@@ -59563,6 +59693,26 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105794",
+      "title": "プリティ・クレイジー　悪魔が引っ越してきた",
+      "typeLabel": "字幕",
+      "runtimeMin": 113,
+      "date": "20260827",
+      "time": "10:05",
+      "timestamp": 1787792700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105794",
+      "title": "プリティ・クレイジー　悪魔が引っ越してきた",
+      "typeLabel": "字幕",
+      "runtimeMin": 113,
+      "date": "20260827",
+      "time": "19:40",
+      "timestamp": 1787827200
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106046",
       "title": "身土不二（しんどふじ）",
       "typeLabel": null,
@@ -59620,6 +59770,16 @@
       "date": "20260826",
       "time": "16:05",
       "timestamp": 1787727900
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106046",
+      "title": "身土不二（しんどふじ）",
+      "typeLabel": null,
+      "runtimeMin": 86,
+      "date": "20260827",
+      "time": "16:05",
+      "timestamp": 1787814300
     },
     {
       "theaterId": "3324",
@@ -65543,6 +65703,76 @@
     },
     {
       "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260821",
+      "time": "13:25",
+      "timestamp": 1787286300
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260822",
+      "time": "12:50",
+      "timestamp": 1787370600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260823",
+      "time": "14:00",
+      "timestamp": 1787461200
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260824",
+      "time": "13:10",
+      "timestamp": 1787544600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260825",
+      "time": "13:10",
+      "timestamp": 1787631000
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260826",
+      "time": "13:10",
+      "timestamp": 1787717400
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "106214",
+      "title": "グレイ・ミッション",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260827",
+      "time": "13:10",
+      "timestamp": 1787803800
+    },
+    {
+      "theaterId": "3242",
       "movieId": "105977",
       "title": "ドラマなふたり",
       "typeLabel": "字幕",
@@ -65680,76 +65910,6 @@
       "date": "20260827",
       "time": "18:00",
       "timestamp": 1787821200
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260821",
-      "time": "13:25",
-      "timestamp": 1787286300
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260822",
-      "time": "12:50",
-      "timestamp": 1787370600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260823",
-      "time": "14:00",
-      "timestamp": 1787461200
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260824",
-      "time": "13:10",
-      "timestamp": 1787544600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260825",
-      "time": "13:10",
-      "timestamp": 1787631000
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260826",
-      "time": "13:10",
-      "timestamp": 1787717400
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "106214",
-      "title": "グレイ・ミッション",
-      "typeLabel": "字幕",
-      "runtimeMin": 97,
-      "date": "20260827",
-      "time": "13:10",
-      "timestamp": 1787803800
     },
     {
       "theaterId": "3242",
@@ -66033,6 +66193,76 @@
     },
     {
       "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260821",
+      "time": "13:30",
+      "timestamp": 1787286600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260822",
+      "time": "13:30",
+      "timestamp": 1787373000
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260823",
+      "time": "13:30",
+      "timestamp": 1787459400
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260824",
+      "time": "13:30",
+      "timestamp": 1787545800
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260825",
+      "time": "13:30",
+      "timestamp": 1787632200
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260826",
+      "time": "13:30",
+      "timestamp": 1787718600
+    },
+    {
+      "theaterId": "3242",
+      "movieId": "105951",
+      "title": "Mirai 運命の戦士",
+      "typeLabel": "字幕",
+      "runtimeMin": 167,
+      "date": "20260827",
+      "time": "13:30",
+      "timestamp": 1787805000
+    },
+    {
+      "theaterId": "3242",
       "movieId": "106690",
       "title": "「幻想水滸伝」第1話～第3話 2週間先行プレミアム上映",
       "typeLabel": null,
@@ -66310,76 +66540,6 @@
       "date": "20260827",
       "time": "13:40",
       "timestamp": 1787805600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260821",
-      "time": "13:30",
-      "timestamp": 1787286600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260822",
-      "time": "13:30",
-      "timestamp": 1787373000
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260823",
-      "time": "13:30",
-      "timestamp": 1787459400
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260824",
-      "time": "13:30",
-      "timestamp": 1787545800
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260825",
-      "time": "13:30",
-      "timestamp": 1787632200
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260826",
-      "time": "13:30",
-      "timestamp": 1787718600
-    },
-    {
-      "theaterId": "3242",
-      "movieId": "105951",
-      "title": "Mirai 運命の戦士",
-      "typeLabel": "字幕",
-      "runtimeMin": 167,
-      "date": "20260827",
-      "time": "13:30",
-      "timestamp": 1787805000
     },
     {
       "theaterId": "3242",
