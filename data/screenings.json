@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:23:30.622Z",
+  "generatedAt": "2026-08-26T07:38:42.997Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -16963,26 +16963,6 @@
     },
     {
       "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260826",
-      "time": "16:40",
-      "timestamp": 1787730000
-    },
-    {
-      "theaterId": "3134",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260827",
-      "time": "16:40",
-      "timestamp": 1787816400
-    },
-    {
-      "theaterId": "3134",
       "movieId": "86189",
       "title": "新感染　ファイナル・エクスプレス",
       "typeLabel": "字幕",
@@ -17000,6 +16980,26 @@
       "date": "20260827",
       "time": "18:45",
       "timestamp": 1787823900
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260826",
+      "time": "16:40",
+      "timestamp": 1787730000
+    },
+    {
+      "theaterId": "3134",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260827",
+      "time": "16:40",
+      "timestamp": 1787816400
     },
     {
       "theaterId": "3134",
@@ -21063,6 +21063,26 @@
     },
     {
       "theaterId": "3123",
+      "movieId": "86189",
+      "title": "新感染　ファイナル・エクスプレス",
+      "typeLabel": "字幕",
+      "runtimeMin": 118,
+      "date": "20260826",
+      "time": "18:00",
+      "timestamp": 1787734800
+    },
+    {
+      "theaterId": "3123",
+      "movieId": "86189",
+      "title": "新感染　ファイナル・エクスプレス",
+      "typeLabel": "字幕",
+      "runtimeMin": 118,
+      "date": "20260827",
+      "time": "18:00",
+      "timestamp": 1787821200
+    },
+    {
+      "theaterId": "3123",
       "movieId": "105899",
       "title": "だぁれかさんとアソぼ？",
       "typeLabel": null,
@@ -21100,26 +21120,6 @@
       "date": "20260901",
       "time": "12:35",
       "timestamp": 1788233700
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "86189",
-      "title": "新感染　ファイナル・エクスプレス",
-      "typeLabel": "字幕",
-      "runtimeMin": 118,
-      "date": "20260826",
-      "time": "18:00",
-      "timestamp": 1787734800
-    },
-    {
-      "theaterId": "3123",
-      "movieId": "86189",
-      "title": "新感染　ファイナル・エクスプレス",
-      "typeLabel": "字幕",
-      "runtimeMin": 118,
-      "date": "20260827",
-      "time": "18:00",
-      "timestamp": 1787821200
     },
     {
       "theaterId": "3123",
@@ -30133,76 +30133,6 @@
     },
     {
       "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260826",
-      "time": "10:20",
-      "timestamp": 1787707200
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260827",
-      "time": "10:20",
-      "timestamp": 1787793600
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260828",
-      "time": "15:20",
-      "timestamp": 1787898000
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260829",
-      "time": "15:20",
-      "timestamp": 1787984400
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260830",
-      "time": "15:20",
-      "timestamp": 1788070800
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260831",
-      "time": "15:20",
-      "timestamp": 1788157200
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105793",
-      "title": "ひつじ探偵団",
-      "typeLabel": "吹替",
-      "runtimeMin": 109,
-      "date": "20260901",
-      "time": "15:20",
-      "timestamp": 1788243600
-    },
-    {
-      "theaterId": "3125",
       "movieId": "105248",
       "title": "免許返納!?",
       "typeLabel": null,
@@ -30293,6 +30223,76 @@
     },
     {
       "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260826",
+      "time": "10:20",
+      "timestamp": 1787707200
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260827",
+      "time": "10:20",
+      "timestamp": 1787793600
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260828",
+      "time": "15:20",
+      "timestamp": 1787898000
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260829",
+      "time": "15:20",
+      "timestamp": 1787984400
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260830",
+      "time": "15:20",
+      "timestamp": 1788070800
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260831",
+      "time": "15:20",
+      "timestamp": 1788157200
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105793",
+      "title": "ひつじ探偵団",
+      "typeLabel": "吹替",
+      "runtimeMin": 109,
+      "date": "20260901",
+      "time": "15:20",
+      "timestamp": 1788243600
+    },
+    {
+      "theaterId": "3125",
       "movieId": "105321",
       "title": "ソング・サング・ブルー",
       "typeLabel": "字幕",
@@ -30360,6 +30360,56 @@
       "date": "20260901",
       "time": "17:40",
       "timestamp": 1788252000
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105491",
+      "title": "ラプソディ・ラプソディ",
+      "typeLabel": null,
+      "runtimeMin": 106,
+      "date": "20260828",
+      "time": "12:45",
+      "timestamp": 1787888700
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105491",
+      "title": "ラプソディ・ラプソディ",
+      "typeLabel": null,
+      "runtimeMin": 106,
+      "date": "20260829",
+      "time": "12:45",
+      "timestamp": 1787975100
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105491",
+      "title": "ラプソディ・ラプソディ",
+      "typeLabel": null,
+      "runtimeMin": 106,
+      "date": "20260830",
+      "time": "12:45",
+      "timestamp": 1788061500
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105491",
+      "title": "ラプソディ・ラプソディ",
+      "typeLabel": null,
+      "runtimeMin": 106,
+      "date": "20260831",
+      "time": "12:45",
+      "timestamp": 1788147900
+    },
+    {
+      "theaterId": "3125",
+      "movieId": "105491",
+      "title": "ラプソディ・ラプソディ",
+      "typeLabel": null,
+      "runtimeMin": 106,
+      "date": "20260901",
+      "time": "12:45",
+      "timestamp": 1788234300
     },
     {
       "theaterId": "3125",
@@ -30480,56 +30530,6 @@
       "date": "20260901",
       "time": "12:30",
       "timestamp": 1788233400
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105491",
-      "title": "ラプソディ・ラプソディ",
-      "typeLabel": null,
-      "runtimeMin": 106,
-      "date": "20260828",
-      "time": "12:45",
-      "timestamp": 1787888700
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105491",
-      "title": "ラプソディ・ラプソディ",
-      "typeLabel": null,
-      "runtimeMin": 106,
-      "date": "20260829",
-      "time": "12:45",
-      "timestamp": 1787975100
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105491",
-      "title": "ラプソディ・ラプソディ",
-      "typeLabel": null,
-      "runtimeMin": 106,
-      "date": "20260830",
-      "time": "12:45",
-      "timestamp": 1788061500
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105491",
-      "title": "ラプソディ・ラプソディ",
-      "typeLabel": null,
-      "runtimeMin": 106,
-      "date": "20260831",
-      "time": "12:45",
-      "timestamp": 1788147900
-    },
-    {
-      "theaterId": "3125",
-      "movieId": "105491",
-      "title": "ラプソディ・ラプソディ",
-      "typeLabel": null,
-      "runtimeMin": 106,
-      "date": "20260901",
-      "time": "12:45",
-      "timestamp": 1788234300
     },
     {
       "theaterId": "3130",
@@ -42823,26 +42823,6 @@
     },
     {
       "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260826",
-      "time": "20:50",
-      "timestamp": 1787745000
-    },
-    {
-      "theaterId": "3250",
-      "movieId": "105899",
-      "title": "だぁれかさんとアソぼ？",
-      "typeLabel": null,
-      "runtimeMin": 109,
-      "date": "20260827",
-      "time": "20:50",
-      "timestamp": 1787831400
-    },
-    {
-      "theaterId": "3250",
       "movieId": "86189",
       "title": "新感染　ファイナル・エクスプレス",
       "typeLabel": "字幕",
@@ -42860,6 +42840,26 @@
       "date": "20260827",
       "time": "18:10",
       "timestamp": 1787821800
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260826",
+      "time": "20:50",
+      "timestamp": 1787745000
+    },
+    {
+      "theaterId": "3250",
+      "movieId": "105899",
+      "title": "だぁれかさんとアソぼ？",
+      "typeLabel": null,
+      "runtimeMin": 109,
+      "date": "20260827",
+      "time": "20:50",
+      "timestamp": 1787831400
     },
     {
       "theaterId": "3250",
@@ -49703,66 +49703,6 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260826",
-      "time": "9:15",
-      "timestamp": 1787703300
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260827",
-      "time": "9:15",
-      "timestamp": 1787789700
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260828",
-      "time": "9:25",
-      "timestamp": 1787876700
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260829",
-      "time": "9:25",
-      "timestamp": 1787963100
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260830",
-      "time": "9:25",
-      "timestamp": 1788049500
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "105427",
-      "title": "黒牢城",
-      "typeLabel": null,
-      "runtimeMin": 147,
-      "date": "20260831",
-      "time": "9:25",
-      "timestamp": 1788135900
-    },
-    {
-      "theaterId": "3287",
       "movieId": "105907",
       "title": "隣人たち",
       "typeLabel": "字幕",
@@ -49820,6 +49760,66 @@
       "date": "20260831",
       "time": "9:40",
       "timestamp": 1788136800
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260826",
+      "time": "9:15",
+      "timestamp": 1787703300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260827",
+      "time": "9:15",
+      "timestamp": 1787789700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260828",
+      "time": "9:25",
+      "timestamp": 1787876700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260829",
+      "time": "9:25",
+      "timestamp": 1787963100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260830",
+      "time": "9:25",
+      "timestamp": 1788049500
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260831",
+      "time": "9:25",
+      "timestamp": 1788135900
     },
     {
       "theaterId": "3287",
@@ -51873,26 +51873,6 @@
     },
     {
       "theaterId": "3289",
-      "movieId": "54486",
-      "title": "マーターズ（2008）",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
-      "date": "20260826",
-      "time": "21:10",
-      "timestamp": 1787746200
-    },
-    {
-      "theaterId": "3289",
-      "movieId": "54486",
-      "title": "マーターズ（2008）",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
-      "date": "20260827",
-      "time": "21:10",
-      "timestamp": 1787832600
-    },
-    {
-      "theaterId": "3289",
       "movieId": "103729",
       "title": "シラート",
       "typeLabel": "字幕",
@@ -51930,6 +51910,26 @@
       "date": "20260827",
       "time": "18:00",
       "timestamp": 1787821200
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "54486",
+      "title": "マーターズ（2008）",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260826",
+      "time": "21:10",
+      "timestamp": 1787746200
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "54486",
+      "title": "マーターズ（2008）",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260827",
+      "time": "21:10",
+      "timestamp": 1787832600
     },
     {
       "theaterId": "3289",
@@ -56043,6 +56043,56 @@
     },
     {
       "theaterId": "3124",
+      "movieId": "105057",
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
+      "typeLabel": "吹替",
+      "runtimeMin": 89,
+      "date": "20260826",
+      "time": "8:20",
+      "timestamp": 1787700000
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105057",
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
+      "typeLabel": "吹替",
+      "runtimeMin": 89,
+      "date": "20260827",
+      "time": "8:20",
+      "timestamp": 1787786400
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105057",
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
+      "typeLabel": "吹替",
+      "runtimeMin": 89,
+      "date": "20260828",
+      "time": "9:10",
+      "timestamp": 1787875800
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105057",
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
+      "typeLabel": "吹替",
+      "runtimeMin": 89,
+      "date": "20260829",
+      "time": "8:25",
+      "timestamp": 1787959500
+    },
+    {
+      "theaterId": "3124",
+      "movieId": "105057",
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
+      "typeLabel": "吹替",
+      "runtimeMin": 89,
+      "date": "20260830",
+      "time": "8:25",
+      "timestamp": 1788045900
+    },
+    {
+      "theaterId": "3124",
       "movieId": "33423",
       "title": "時をかける少女（2006）",
       "typeLabel": "4D",
@@ -56110,56 +56160,6 @@
       "date": "20260901",
       "time": "17:55",
       "timestamp": 1788252900
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105057",
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
-      "typeLabel": "吹替",
-      "runtimeMin": 89,
-      "date": "20260826",
-      "time": "8:20",
-      "timestamp": 1787700000
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105057",
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
-      "typeLabel": "吹替",
-      "runtimeMin": 89,
-      "date": "20260827",
-      "time": "8:20",
-      "timestamp": 1787786400
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105057",
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
-      "typeLabel": "吹替",
-      "runtimeMin": 89,
-      "date": "20260828",
-      "time": "9:10",
-      "timestamp": 1787875800
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105057",
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
-      "typeLabel": "吹替",
-      "runtimeMin": 89,
-      "date": "20260829",
-      "time": "8:25",
-      "timestamp": 1787959500
-    },
-    {
-      "theaterId": "3124",
-      "movieId": "105057",
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー",
-      "typeLabel": "吹替",
-      "runtimeMin": 89,
-      "date": "20260830",
-      "time": "8:25",
-      "timestamp": 1788045900
     },
     {
       "theaterId": "3124",
