@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T19:09:45.639Z",
+  "generatedAt": "2026-08-29T01:57:09.546Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -54273,66 +54273,6 @@
     },
     {
       "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260829",
-      "time": "9:55",
-      "timestamp": 1787964900
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260830",
-      "time": "9:55",
-      "timestamp": 1788051300
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260831",
-      "time": "9:55",
-      "timestamp": 1788137700
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260901",
-      "time": "9:55",
-      "timestamp": 1788224100
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260902",
-      "time": "9:55",
-      "timestamp": 1788310500
-    },
-    {
-      "theaterId": "3287",
-      "movieId": "28423",
-      "title": "マイ・プライベート・アイダホ",
-      "typeLabel": "字幕",
-      "runtimeMin": 104,
-      "date": "20260903",
-      "time": "9:55",
-      "timestamp": 1788396900
-    },
-    {
-      "theaterId": "3287",
       "movieId": "106045",
       "title": "ゴースト・オブ・ウエノ",
       "typeLabel": null,
@@ -54390,6 +54330,66 @@
       "date": "20260903",
       "time": "17:15",
       "timestamp": 1788423300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260829",
+      "time": "9:55",
+      "timestamp": 1787964900
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260830",
+      "time": "9:55",
+      "timestamp": 1788051300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260831",
+      "time": "9:55",
+      "timestamp": 1788137700
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260901",
+      "time": "9:55",
+      "timestamp": 1788224100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260902",
+      "time": "9:55",
+      "timestamp": 1788310500
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260903",
+      "time": "9:55",
+      "timestamp": 1788396900
     },
     {
       "theaterId": "3287",
