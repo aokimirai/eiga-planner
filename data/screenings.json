@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T01:57:09.546Z",
+  "generatedAt": "2026-08-29T12:53:43.036Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -6397,16 +6397,6 @@
       "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
       "typeLabel": null,
       "runtimeMin": 108,
-      "date": "20260829",
-      "time": "12:30",
-      "timestamp": 1787974200
-    },
-    {
-      "theaterId": "3325",
-      "movieId": "95672",
-      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
-      "typeLabel": null,
-      "runtimeMin": 108,
       "date": "20260830",
       "time": "10:30",
       "timestamp": 1788053400
@@ -6447,16 +6437,6 @@
       "title": "ナイトフラワー",
       "typeLabel": null,
       "runtimeMin": 124,
-      "date": "20260829",
-      "time": "17:40",
-      "timestamp": 1787992800
-    },
-    {
-      "theaterId": "3325",
-      "movieId": "103293",
-      "title": "ナイトフラワー",
-      "typeLabel": null,
-      "runtimeMin": 124,
       "date": "20260830",
       "time": "12:50",
       "timestamp": 1788061800
@@ -6490,16 +6470,6 @@
       "date": "20260903",
       "time": "15:10",
       "timestamp": 1788415800
-    },
-    {
-      "theaterId": "3325",
-      "movieId": "105077",
-      "title": "ストリート・キングダム　自分の音を鳴らせ。",
-      "typeLabel": null,
-      "runtimeMin": 130,
-      "date": "20260829",
-      "time": "14:50",
-      "timestamp": 1787982600
     },
     {
       "theaterId": "3325",
@@ -6550,16 +6520,6 @@
       "date": "20260904",
       "time": "17:50",
       "timestamp": 1788511800
-    },
-    {
-      "theaterId": "3325",
-      "movieId": "105510",
-      "title": "カミング・ホーム",
-      "typeLabel": "字幕",
-      "runtimeMin": 87,
-      "date": "20260829",
-      "time": "10:30",
-      "timestamp": 1787967000
     },
     {
       "theaterId": "3325",
