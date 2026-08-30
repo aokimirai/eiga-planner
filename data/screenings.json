@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:22:34.248Z",
+  "generatedAt": "2026-08-30T12:27:33.319Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -29047,16 +29047,6 @@
       "title": "トロフィー",
       "typeLabel": null,
       "runtimeMin": 103,
-      "date": "20260830",
-      "time": "11:10",
-      "timestamp": 1788055800
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
       "date": "20260831",
       "time": "11:10",
       "timestamp": 1788142200
@@ -29400,16 +29390,6 @@
       "date": "20260904",
       "time": "17:15",
       "timestamp": 1788509700
-    },
-    {
-      "theaterId": "3247",
-      "movieId": "105898",
-      "title": "ヴィヴァルディと私",
-      "typeLabel": "字幕",
-      "runtimeMin": 110,
-      "date": "20260830",
-      "time": "11:00",
-      "timestamp": 1788055200
     },
     {
       "theaterId": "3247",
