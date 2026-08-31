@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:43:55.696Z",
+  "generatedAt": "2026-08-31T14:37:07.567Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -13753,6 +13753,16 @@
     },
     {
       "theaterId": "3123",
+      "movieId": "105470",
+      "title": "白鳥とコウモリ",
+      "typeLabel": null,
+      "runtimeMin": 145,
+      "date": "20260904",
+      "time": "15:00",
+      "timestamp": 1788501600
+    },
+    {
+      "theaterId": "3123",
       "movieId": "105109",
       "title": "映画ちいかわ　人魚の島のひみつ",
       "typeLabel": null,
@@ -24470,6 +24480,16 @@
       "date": "20260905",
       "time": "12:20",
       "timestamp": 1788578400
+    },
+    {
+      "theaterId": "3136",
+      "movieId": "105470",
+      "title": "白鳥とコウモリ",
+      "typeLabel": null,
+      "runtimeMin": 145,
+      "date": "20260904",
+      "time": "15:00",
+      "timestamp": 1788501600
     },
     {
       "theaterId": "3136",
