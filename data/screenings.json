@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T21:26:11.383Z",
+  "generatedAt": "2026-09-03T11:51:20.998Z",
   "screenings": [
     {
       "theaterId": "3146",
@@ -15693,596 +15693,6 @@
     },
     {
       "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "8:40",
-      "timestamp": 1788392400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "10:55",
-      "timestamp": 1788400500
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "13:15",
-      "timestamp": 1788408900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "14:40",
-      "timestamp": 1788414000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "15:30",
-      "timestamp": 1788417000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "17:45",
-      "timestamp": 1788425100
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260903",
-      "time": "20:00",
-      "timestamp": 1788433200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "9:20",
-      "timestamp": 1788481200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "11:40",
-      "timestamp": 1788489600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "13:25",
-      "timestamp": 1788495900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "16:55",
-      "timestamp": 1788508500
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "18:40",
-      "timestamp": 1788514800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260904",
-      "time": "21:00",
-      "timestamp": 1788523200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "9:20",
-      "timestamp": 1788567600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "11:40",
-      "timestamp": 1788576000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "14:00",
-      "timestamp": 1788584400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "16:20",
-      "timestamp": 1788592800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "18:40",
-      "timestamp": 1788601200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260905",
-      "time": "21:00",
-      "timestamp": 1788609600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "9:20",
-      "timestamp": 1788654000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "11:40",
-      "timestamp": 1788662400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "14:00",
-      "timestamp": 1788670800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "16:20",
-      "timestamp": 1788679200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "18:40",
-      "timestamp": 1788687600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260906",
-      "time": "21:00",
-      "timestamp": 1788696000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "9:20",
-      "timestamp": 1788740400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "11:40",
-      "timestamp": 1788748800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "14:00",
-      "timestamp": 1788757200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "16:20",
-      "timestamp": 1788765600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "18:40",
-      "timestamp": 1788774000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260907",
-      "time": "21:00",
-      "timestamp": 1788782400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "9:20",
-      "timestamp": 1788826800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "11:40",
-      "timestamp": 1788835200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "14:00",
-      "timestamp": 1788843600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "16:20",
-      "timestamp": 1788852000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "18:40",
-      "timestamp": 1788860400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260908",
-      "time": "21:00",
-      "timestamp": 1788868800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "9:20",
-      "timestamp": 1788913200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "11:40",
-      "timestamp": 1788921600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "14:00",
-      "timestamp": 1788930000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "16:20",
-      "timestamp": 1788938400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "18:40",
-      "timestamp": 1788946800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105109",
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "typeLabel": null,
-      "runtimeMin": 99,
-      "date": "20260909",
-      "time": "21:00",
-      "timestamp": 1788955200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "9:15",
-      "timestamp": 1788394500
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "12:00",
-      "timestamp": 1788404400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "15:20",
-      "timestamp": 1788416400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "20:10",
-      "timestamp": 1788433800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260904",
-      "time": "9:00",
-      "timestamp": 1788480000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260904",
-      "time": "14:40",
-      "timestamp": 1788500400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260905",
-      "time": "9:00",
-      "timestamp": 1788566400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260905",
-      "time": "14:40",
-      "timestamp": 1788586800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260906",
-      "time": "9:00",
-      "timestamp": 1788652800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260906",
-      "time": "14:40",
-      "timestamp": 1788673200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260907",
-      "time": "9:00",
-      "timestamp": 1788739200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260907",
-      "time": "14:40",
-      "timestamp": 1788759600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260908",
-      "time": "9:00",
-      "timestamp": 1788825600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260908",
-      "time": "14:40",
-      "timestamp": 1788846000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260909",
-      "time": "9:00",
-      "timestamp": 1788912000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "103169",
-      "title": "時には懺悔を",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260909",
-      "time": "14:40",
-      "timestamp": 1788932400
-    },
-    {
-      "theaterId": "3137",
       "movieId": "94928",
       "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
       "typeLabel": null,
@@ -17003,6 +16413,166 @@
     },
     {
       "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "9:15",
+      "timestamp": 1788394500
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "12:00",
+      "timestamp": 1788404400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "15:20",
+      "timestamp": 1788416400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "20:10",
+      "timestamp": 1788433800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260904",
+      "time": "9:00",
+      "timestamp": 1788480000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260904",
+      "time": "14:40",
+      "timestamp": 1788500400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260905",
+      "time": "9:00",
+      "timestamp": 1788566400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260905",
+      "time": "14:40",
+      "timestamp": 1788586800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260906",
+      "time": "9:00",
+      "timestamp": 1788652800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260906",
+      "time": "14:40",
+      "timestamp": 1788673200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260907",
+      "time": "9:00",
+      "timestamp": 1788739200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260907",
+      "time": "14:40",
+      "timestamp": 1788759600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260908",
+      "time": "9:00",
+      "timestamp": 1788825600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260908",
+      "time": "14:40",
+      "timestamp": 1788846000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260909",
+      "time": "9:00",
+      "timestamp": 1788912000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "103169",
+      "title": "時には懺悔を",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260909",
+      "time": "14:40",
+      "timestamp": 1788932400
+    },
+    {
+      "theaterId": "3137",
       "movieId": "104000",
       "title": "ラスト・サバイバー",
       "typeLabel": "字幕",
@@ -17163,93 +16733,433 @@
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260903",
-      "time": "16:05",
-      "timestamp": 1788419100
+      "time": "8:40",
+      "timestamp": 1788392400
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260903",
-      "time": "20:50",
-      "timestamp": 1788436200
+      "time": "10:55",
+      "timestamp": 1788400500
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260903",
+      "time": "13:15",
+      "timestamp": 1788408900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260903",
+      "time": "14:40",
+      "timestamp": 1788414000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260903",
+      "time": "15:30",
+      "timestamp": 1788417000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260903",
+      "time": "17:45",
+      "timestamp": 1788425100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260903",
+      "time": "20:00",
+      "timestamp": 1788433200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260904",
-      "time": "20:25",
-      "timestamp": 1788521100
+      "time": "9:20",
+      "timestamp": 1788481200
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260904",
+      "time": "11:40",
+      "timestamp": 1788489600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260904",
+      "time": "13:25",
+      "timestamp": 1788495900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260904",
+      "time": "16:55",
+      "timestamp": 1788508500
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260904",
+      "time": "18:40",
+      "timestamp": 1788514800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260904",
+      "time": "21:00",
+      "timestamp": 1788523200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260905",
-      "time": "20:25",
-      "timestamp": 1788607500
+      "time": "9:20",
+      "timestamp": 1788567600
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260905",
+      "time": "11:40",
+      "timestamp": 1788576000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260905",
+      "time": "14:00",
+      "timestamp": 1788584400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260905",
+      "time": "16:20",
+      "timestamp": 1788592800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260905",
+      "time": "18:40",
+      "timestamp": 1788601200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260905",
+      "time": "21:00",
+      "timestamp": 1788609600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260906",
-      "time": "20:25",
-      "timestamp": 1788693900
+      "time": "9:20",
+      "timestamp": 1788654000
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260906",
+      "time": "11:40",
+      "timestamp": 1788662400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260906",
+      "time": "14:00",
+      "timestamp": 1788670800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260906",
+      "time": "16:20",
+      "timestamp": 1788679200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260906",
+      "time": "18:40",
+      "timestamp": 1788687600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260906",
+      "time": "21:00",
+      "timestamp": 1788696000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260907",
-      "time": "20:25",
-      "timestamp": 1788780300
+      "time": "9:20",
+      "timestamp": 1788740400
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260907",
+      "time": "11:40",
+      "timestamp": 1788748800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260907",
+      "time": "14:00",
+      "timestamp": 1788757200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260907",
+      "time": "16:20",
+      "timestamp": 1788765600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260907",
+      "time": "18:40",
+      "timestamp": 1788774000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260907",
+      "time": "21:00",
+      "timestamp": 1788782400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260908",
-      "time": "20:25",
-      "timestamp": 1788866700
+      "time": "9:20",
+      "timestamp": 1788826800
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "字幕",
-      "runtimeMin": 100,
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260908",
+      "time": "11:40",
+      "timestamp": 1788835200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260908",
+      "time": "14:00",
+      "timestamp": 1788843600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260908",
+      "time": "16:20",
+      "timestamp": 1788852000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260908",
+      "time": "18:40",
+      "timestamp": 1788860400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260908",
+      "time": "21:00",
+      "timestamp": 1788868800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
       "date": "20260909",
-      "time": "20:25",
-      "timestamp": 1788953100
+      "time": "9:20",
+      "timestamp": 1788913200
     },
     {
       "theaterId": "3137",
-      "movieId": "105912",
-      "title": "オークストリートの異変",
-      "typeLabel": "吹替",
-      "runtimeMin": 100,
-      "date": "20260903",
-      "time": "11:35",
-      "timestamp": 1788402900
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260909",
+      "time": "11:40",
+      "timestamp": 1788921600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260909",
+      "time": "14:00",
+      "timestamp": 1788930000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260909",
+      "time": "16:20",
+      "timestamp": 1788938400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260909",
+      "time": "18:40",
+      "timestamp": 1788946800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105109",
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "typeLabel": null,
+      "runtimeMin": 99,
+      "date": "20260909",
+      "time": "21:00",
+      "timestamp": 1788955200
     },
     {
       "theaterId": "3137",
@@ -17343,6 +17253,96 @@
     },
     {
       "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260903",
+      "time": "16:05",
+      "timestamp": 1788419100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260903",
+      "time": "20:50",
+      "timestamp": 1788436200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260904",
+      "time": "20:25",
+      "timestamp": 1788521100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260905",
+      "time": "20:25",
+      "timestamp": 1788607500
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260906",
+      "time": "20:25",
+      "timestamp": 1788693900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260907",
+      "time": "20:25",
+      "timestamp": 1788780300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260908",
+      "time": "20:25",
+      "timestamp": 1788866700
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "字幕",
+      "runtimeMin": 100,
+      "date": "20260909",
+      "time": "20:25",
+      "timestamp": 1788953100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105912",
+      "title": "オークストリートの異変",
+      "typeLabel": "吹替",
+      "runtimeMin": 100,
+      "date": "20260903",
+      "time": "11:35",
+      "timestamp": 1788402900
+    },
+    {
+      "theaterId": "3137",
       "movieId": "104441",
       "title": "あの星が降る丘で、君とまた出会いたい。",
       "typeLabel": null,
@@ -17420,76 +17420,6 @@
       "date": "20260909",
       "time": "9:10",
       "timestamp": 1788912600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260903",
-      "time": "11:40",
-      "timestamp": 1788403200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260904",
-      "time": "11:45",
-      "timestamp": 1788489900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260905",
-      "time": "11:45",
-      "timestamp": 1788576300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260906",
-      "time": "11:45",
-      "timestamp": 1788662700
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260907",
-      "time": "11:45",
-      "timestamp": 1788749100
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260908",
-      "time": "11:45",
-      "timestamp": 1788835500
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105306",
-      "title": "開戦前夜",
-      "typeLabel": null,
-      "runtimeMin": 138,
-      "date": "20260909",
-      "time": "11:45",
-      "timestamp": 1788921900
     },
     {
       "theaterId": "3137",
@@ -17643,83 +17573,73 @@
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260903",
-      "time": "17:20",
-      "timestamp": 1788423600
+      "time": "11:40",
+      "timestamp": 1788403200
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "20:00",
-      "timestamp": 1788433200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260904",
-      "time": "20:15",
-      "timestamp": 1788520500
+      "time": "11:45",
+      "timestamp": 1788489900
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260905",
-      "time": "20:15",
-      "timestamp": 1788606900
+      "time": "11:45",
+      "timestamp": 1788576300
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260906",
-      "time": "20:15",
-      "timestamp": 1788693300
+      "time": "11:45",
+      "timestamp": 1788662700
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260907",
-      "time": "20:15",
-      "timestamp": 1788779700
+      "time": "11:45",
+      "timestamp": 1788749100
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260908",
-      "time": "20:15",
-      "timestamp": 1788866100
+      "time": "11:45",
+      "timestamp": 1788835500
     },
     {
       "theaterId": "3137",
-      "movieId": "104707",
-      "title": "ブルーロック",
+      "movieId": "105306",
+      "title": "開戦前夜",
       "typeLabel": null,
-      "runtimeMin": 128,
+      "runtimeMin": 138,
       "date": "20260909",
-      "time": "20:15",
-      "timestamp": 1788952500
+      "time": "11:45",
+      "timestamp": 1788921900
     },
     {
       "theaterId": "3137",
@@ -17800,6 +17720,86 @@
       "date": "20260909",
       "time": "14:10",
       "timestamp": 1788930600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "17:20",
+      "timestamp": 1788423600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "20:00",
+      "timestamp": 1788433200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260904",
+      "time": "20:15",
+      "timestamp": 1788520500
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260905",
+      "time": "20:15",
+      "timestamp": 1788606900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260906",
+      "time": "20:15",
+      "timestamp": 1788693300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260907",
+      "time": "20:15",
+      "timestamp": 1788779700
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260908",
+      "time": "20:15",
+      "timestamp": 1788866100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260909",
+      "time": "20:15",
+      "timestamp": 1788952500
     },
     {
       "theaterId": "3137",
@@ -17973,86 +17973,6 @@
     },
     {
       "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260903",
-      "time": "8:55",
-      "timestamp": 1788393300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260903",
-      "time": "11:10",
-      "timestamp": 1788401400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260904",
-      "time": "11:50",
-      "timestamp": 1788490200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260905",
-      "time": "11:50",
-      "timestamp": 1788576600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260906",
-      "time": "11:50",
-      "timestamp": 1788663000
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260907",
-      "time": "11:50",
-      "timestamp": 1788749400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260908",
-      "time": "11:50",
-      "timestamp": 1788835800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105870",
-      "title": "ミニオンズ＆モンスターズ",
-      "typeLabel": "吹替",
-      "runtimeMin": 90,
-      "date": "20260909",
-      "time": "11:50",
-      "timestamp": 1788922200
-    },
-    {
-      "theaterId": "3137",
       "movieId": "105228",
       "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
       "typeLabel": null,
@@ -18127,6 +18047,86 @@
       "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
       "typeLabel": null,
       "runtimeMin": 101,
+      "date": "20260909",
+      "time": "11:50",
+      "timestamp": 1788922200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260903",
+      "time": "8:55",
+      "timestamp": 1788393300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260903",
+      "time": "11:10",
+      "timestamp": 1788401400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260904",
+      "time": "11:50",
+      "timestamp": 1788490200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260905",
+      "time": "11:50",
+      "timestamp": 1788576600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260906",
+      "time": "11:50",
+      "timestamp": 1788663000
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260907",
+      "time": "11:50",
+      "timestamp": 1788749400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
+      "date": "20260908",
+      "time": "11:50",
+      "timestamp": 1788835800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105870",
+      "title": "ミニオンズ＆モンスターズ",
+      "typeLabel": "吹替",
+      "runtimeMin": 90,
       "date": "20260909",
       "time": "11:50",
       "timestamp": 1788922200
@@ -18350,96 +18350,6 @@
       "date": "20260909",
       "time": "17:25",
       "timestamp": 1788942300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260903",
-      "time": "9:00",
-      "timestamp": 1788393600
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260903",
-      "time": "16:40",
-      "timestamp": 1788421200
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260904",
-      "time": "20:45",
-      "timestamp": 1788522300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260905",
-      "time": "20:45",
-      "timestamp": 1788608700
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260906",
-      "time": "20:45",
-      "timestamp": 1788695100
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260907",
-      "time": "20:45",
-      "timestamp": 1788781500
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260908",
-      "time": "20:45",
-      "timestamp": 1788867900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105730",
-      "title": "しらぬひ",
-      "typeLabel": null,
-      "runtimeMin": 36,
-      "date": "20260909",
-      "time": "20:45",
-      "timestamp": 1788954300
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "105891",
-      "title": "レディ・オア・ノット2",
-      "typeLabel": "字幕",
-      "runtimeMin": 108,
-      "date": "20260903",
-      "time": "21:00",
-      "timestamp": 1788436800
     },
     {
       "theaterId": "3137",
@@ -18673,6 +18583,106 @@
     },
     {
       "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260903",
+      "time": "9:00",
+      "timestamp": 1788393600
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260903",
+      "time": "16:40",
+      "timestamp": 1788421200
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260904",
+      "time": "20:45",
+      "timestamp": 1788522300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260905",
+      "time": "20:45",
+      "timestamp": 1788608700
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260906",
+      "time": "20:45",
+      "timestamp": 1788695100
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260907",
+      "time": "20:45",
+      "timestamp": 1788781500
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260908",
+      "time": "20:45",
+      "timestamp": 1788867900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105730",
+      "title": "しらぬひ",
+      "typeLabel": null,
+      "runtimeMin": 36,
+      "date": "20260909",
+      "time": "20:45",
+      "timestamp": 1788954300
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "105891",
+      "title": "レディ・オア・ノット2",
+      "typeLabel": "字幕",
+      "runtimeMin": 108,
+      "date": "20260903",
+      "time": "21:00",
+      "timestamp": 1788436800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "53771",
+      "title": "フィッシュストーリー",
+      "typeLabel": null,
+      "runtimeMin": 112,
+      "date": "20260903",
+      "time": "20:20",
+      "timestamp": 1788434400
+    },
+    {
+      "theaterId": "3137",
       "movieId": "105951",
       "title": "Mirai 運命の戦士",
       "typeLabel": "字幕",
@@ -18750,46 +18760,6 @@
       "date": "20260909",
       "time": "19:35",
       "timestamp": 1788950100
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "53771",
-      "title": "フィッシュストーリー",
-      "typeLabel": null,
-      "runtimeMin": 112,
-      "date": "20260903",
-      "time": "20:20",
-      "timestamp": 1788434400
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "98684",
-      "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
-      "typeLabel": null,
-      "runtimeMin": 93,
-      "date": "20260908",
-      "time": "18:30",
-      "timestamp": 1788859800
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "98684",
-      "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
-      "typeLabel": null,
-      "runtimeMin": 93,
-      "date": "20260908",
-      "time": "20:45",
-      "timestamp": 1788867900
-    },
-    {
-      "theaterId": "3137",
-      "movieId": "92127",
-      "title": "劇場版　少女☆歌劇 レヴュー・スタァライト",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "20:15",
-      "timestamp": 1788952500
     },
     {
       "theaterId": "3137",
@@ -18910,6 +18880,36 @@
       "date": "20260909",
       "time": "20:30",
       "timestamp": 1788953400
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "98684",
+      "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+      "typeLabel": null,
+      "runtimeMin": 93,
+      "date": "20260908",
+      "time": "18:30",
+      "timestamp": 1788859800
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "98684",
+      "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+      "typeLabel": null,
+      "runtimeMin": 93,
+      "date": "20260908",
+      "time": "20:45",
+      "timestamp": 1788867900
+    },
+    {
+      "theaterId": "3137",
+      "movieId": "92127",
+      "title": "劇場版　少女☆歌劇 レヴュー・スタァライト",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "20:15",
+      "timestamp": 1788952500
     },
     {
       "theaterId": "3134",
@@ -38363,6 +38363,56 @@
     },
     {
       "theaterId": "3130",
+      "movieId": "106425",
+      "title": "零下五十度の抑留者",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260905",
+      "time": "13:05",
+      "timestamp": 1788581100
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106425",
+      "title": "零下五十度の抑留者",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260906",
+      "time": "13:05",
+      "timestamp": 1788667500
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106425",
+      "title": "零下五十度の抑留者",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260907",
+      "time": "13:05",
+      "timestamp": 1788753900
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106425",
+      "title": "零下五十度の抑留者",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260908",
+      "time": "13:05",
+      "timestamp": 1788840300
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "106425",
+      "title": "零下五十度の抑留者",
+      "typeLabel": "字幕",
+      "runtimeMin": 85,
+      "date": "20260909",
+      "time": "13:05",
+      "timestamp": 1788926700
+    },
+    {
+      "theaterId": "3130",
       "movieId": "103908",
       "title": "急に具合が悪くなる",
       "typeLabel": "字幕",
@@ -38660,6 +38710,56 @@
       "date": "20260904",
       "time": "18:40",
       "timestamp": 1788514800
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "46757",
+      "title": "チャオ・パンタン",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260905",
+      "time": "20:25",
+      "timestamp": 1788607500
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "46757",
+      "title": "チャオ・パンタン",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260906",
+      "time": "20:55",
+      "timestamp": 1788695700
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "46757",
+      "title": "チャオ・パンタン",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260907",
+      "time": "20:25",
+      "timestamp": 1788780300
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "46757",
+      "title": "チャオ・パンタン",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260908",
+      "time": "20:25",
+      "timestamp": 1788866700
+    },
+    {
+      "theaterId": "3130",
+      "movieId": "46757",
+      "title": "チャオ・パンタン",
+      "typeLabel": "字幕",
+      "runtimeMin": 94,
+      "date": "20260909",
+      "time": "20:25",
+      "timestamp": 1788953100
     },
     {
       "theaterId": "3130",
@@ -39487,29 +39587,9 @@
       "title": "左利きの少女",
       "typeLabel": "字幕",
       "runtimeMin": 108,
-      "date": "20260903",
-      "time": "14:20",
-      "timestamp": 1788412800
-    },
-    {
-      "theaterId": "3138",
-      "movieId": "104898",
-      "title": "左利きの少女",
-      "typeLabel": "字幕",
-      "runtimeMin": 108,
       "date": "20260904",
       "time": "14:20",
       "timestamp": 1788499200
-    },
-    {
-      "theaterId": "3138",
-      "movieId": "106053",
-      "title": "白パンと独裁者",
-      "typeLabel": "字幕",
-      "runtimeMin": 93,
-      "date": "20260903",
-      "time": "10:00",
-      "timestamp": 1788397200
     },
     {
       "theaterId": "3138",
@@ -39607,19 +39687,39 @@
       "title": "トロフィー",
       "typeLabel": null,
       "runtimeMin": 103,
-      "date": "20260903",
-      "time": "12:05",
-      "timestamp": 1788404700
-    },
-    {
-      "theaterId": "3138",
-      "movieId": "105893",
-      "title": "トロフィー",
-      "typeLabel": null,
-      "runtimeMin": 103,
       "date": "20260904",
       "time": "12:05",
       "timestamp": 1788491100
+    },
+    {
+      "theaterId": "3138",
+      "movieId": "105616",
+      "title": "君の見る世界をなぞる",
+      "typeLabel": "字幕",
+      "runtimeMin": 102,
+      "date": "20260906",
+      "time": "14:20",
+      "timestamp": 1788672000
+    },
+    {
+      "theaterId": "3138",
+      "movieId": "105616",
+      "title": "君の見る世界をなぞる",
+      "typeLabel": "字幕",
+      "runtimeMin": 102,
+      "date": "20260908",
+      "time": "14:20",
+      "timestamp": 1788844800
+    },
+    {
+      "theaterId": "3138",
+      "movieId": "105616",
+      "title": "君の見る世界をなぞる",
+      "typeLabel": "字幕",
+      "runtimeMin": 102,
+      "date": "20260909",
+      "time": "14:20",
+      "timestamp": 1788931200
     },
     {
       "theaterId": "3138",
@@ -59943,6 +60043,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "104398",
+      "title": "ヒンド・ラジャブの声",
+      "typeLabel": "字幕",
+      "runtimeMin": 89,
+      "date": "20260909",
+      "time": "12:25",
+      "timestamp": 1788924300
+    },
+    {
+      "theaterId": "3287",
       "movieId": "105804",
       "title": "ホーム スイート ホーム",
       "typeLabel": null,
@@ -60043,6 +60153,26 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105804",
+      "title": "ホーム スイート ホーム",
+      "typeLabel": null,
+      "runtimeMin": 110,
+      "date": "20260909",
+      "time": "13:10",
+      "timestamp": 1788927000
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "105804",
+      "title": "ホーム スイート ホーム",
+      "typeLabel": null,
+      "runtimeMin": 110,
+      "date": "20260909",
+      "time": "19:40",
+      "timestamp": 1788950400
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106319",
       "title": "猫たちと7000マイルの旅",
       "typeLabel": "字幕",
@@ -60090,6 +60220,16 @@
       "date": "20260908",
       "time": "11:10",
       "timestamp": 1788833400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106319",
+      "title": "猫たちと7000マイルの旅",
+      "typeLabel": "字幕",
+      "runtimeMin": 95,
+      "date": "20260909",
+      "time": "11:10",
+      "timestamp": 1788919800
     },
     {
       "theaterId": "3287",
@@ -60143,6 +60283,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106552",
+      "title": "グルスポングの奇跡",
+      "typeLabel": "字幕",
+      "runtimeMin": 114,
+      "date": "20260909",
+      "time": "17:20",
+      "timestamp": 1788942000
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106456",
       "title": "GUN FISH あなたの知らないフグの世界",
       "typeLabel": null,
@@ -60190,6 +60340,16 @@
       "date": "20260908",
       "time": "9:45",
       "timestamp": 1788828300
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106456",
+      "title": "GUN FISH あなたの知らないフグの世界",
+      "typeLabel": null,
+      "runtimeMin": 110,
+      "date": "20260909",
+      "time": "9:45",
+      "timestamp": 1788914700
     },
     {
       "theaterId": "3287",
@@ -60253,6 +60413,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "104669",
+      "title": "レンタル家族",
+      "typeLabel": null,
+      "runtimeMin": 89,
+      "date": "20260909",
+      "time": "9:15",
+      "timestamp": 1788912900
+    },
+    {
+      "theaterId": "3287",
       "movieId": "102093",
       "title": "Michael マイケル",
       "typeLabel": "字幕",
@@ -60313,6 +60483,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "102093",
+      "title": "Michael マイケル",
+      "typeLabel": "字幕",
+      "runtimeMin": 127,
+      "date": "20260909",
+      "time": "14:15",
+      "timestamp": 1788930900
+    },
+    {
+      "theaterId": "3287",
       "movieId": "56219",
       "title": "ムカデ人間",
       "typeLabel": "字幕",
@@ -60370,6 +60550,16 @@
       "date": "20260908",
       "time": "15:20",
       "timestamp": 1788848400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "56219",
+      "title": "ムカデ人間",
+      "typeLabel": "字幕",
+      "runtimeMin": 92,
+      "date": "20260909",
+      "time": "15:20",
+      "timestamp": 1788934800
     },
     {
       "theaterId": "3287",
@@ -60443,6 +60633,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "105427",
+      "title": "黒牢城",
+      "typeLabel": null,
+      "runtimeMin": 147,
+      "date": "20260909",
+      "time": "9:30",
+      "timestamp": 1788913800
+    },
+    {
+      "theaterId": "3287",
       "movieId": "104925",
       "title": "大統領のケーキ",
       "typeLabel": "字幕",
@@ -60500,6 +60700,16 @@
       "date": "20260908",
       "time": "12:00",
       "timestamp": 1788836400
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "104925",
+      "title": "大統領のケーキ",
+      "typeLabel": "字幕",
+      "runtimeMin": 105,
+      "date": "20260909",
+      "time": "12:00",
+      "timestamp": 1788922800
     },
     {
       "theaterId": "3287",
@@ -60573,6 +60783,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "106424",
+      "title": "劇場版 TUBE 40th Anniversary Live & Documentary 40周年の航海記",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "18:50",
+      "timestamp": 1788947400
+    },
+    {
+      "theaterId": "3287",
       "movieId": "28423",
       "title": "マイ・プライベート・アイダホ",
       "typeLabel": "字幕",
@@ -60633,6 +60853,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "28423",
+      "title": "マイ・プライベート・アイダホ",
+      "typeLabel": "字幕",
+      "runtimeMin": 104,
+      "date": "20260909",
+      "time": "17:05",
+      "timestamp": 1788941100
+    },
+    {
+      "theaterId": "3287",
       "movieId": "106045",
       "title": "ゴースト・オブ・ウエノ",
       "typeLabel": null,
@@ -60690,6 +60920,16 @@
       "date": "20260908",
       "time": "19:25",
       "timestamp": 1788863100
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106045",
+      "title": "ゴースト・オブ・ウエノ",
+      "typeLabel": null,
+      "runtimeMin": 92,
+      "date": "20260909",
+      "time": "19:25",
+      "timestamp": 1788949500
     },
     {
       "theaterId": "3287",
@@ -60773,6 +61013,16 @@
     },
     {
       "theaterId": "3287",
+      "movieId": "104119",
+      "title": "鯨が消えた入り江",
+      "typeLabel": "字幕",
+      "runtimeMin": 101,
+      "date": "20260909",
+      "time": "14:30",
+      "timestamp": 1788931800
+    },
+    {
+      "theaterId": "3287",
       "movieId": "40525",
       "title": "ハッシュ！",
       "typeLabel": null,
@@ -60840,6 +61090,16 @@
       "date": "20260908",
       "time": "16:45",
       "timestamp": 1788853500
+    },
+    {
+      "theaterId": "3287",
+      "movieId": "106245",
+      "title": "カルロス・カイザー　サッカー史上最も奇妙な成功者",
+      "typeLabel": "字幕",
+      "runtimeMin": 97,
+      "date": "20260909",
+      "time": "16:45",
+      "timestamp": 1788939900
     },
     {
       "theaterId": "3324",
@@ -65770,6 +66030,16 @@
       "date": "20260904",
       "time": "20:40",
       "timestamp": 1788522000
+    },
+    {
+      "theaterId": "3289",
+      "movieId": "102093",
+      "title": "Michael マイケル",
+      "typeLabel": "字幕",
+      "runtimeMin": 127,
+      "date": "20260905",
+      "time": "19:30",
+      "timestamp": 1788604200
     },
     {
       "theaterId": "3289",
@@ -74923,6 +75193,606 @@
     },
     {
       "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "9:00",
+      "timestamp": 1788393600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "11:30",
+      "timestamp": 1788402600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "16:00",
+      "timestamp": 1788418800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "16:50",
+      "timestamp": 1788421800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "18:30",
+      "timestamp": 1788427800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "19:15",
+      "timestamp": 1788430500
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "21:00",
+      "timestamp": 1788436800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "9:10",
+      "timestamp": 1788480600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "11:30",
+      "timestamp": 1788489000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "13:50",
+      "timestamp": 1788497400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "19:30",
+      "timestamp": 1788517800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "8:20",
+      "timestamp": 1788564000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "12:45",
+      "timestamp": 1788579900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "16:45",
+      "timestamp": 1788594300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "19:15",
+      "timestamp": 1788603300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "8:20",
+      "timestamp": 1788650400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "12:45",
+      "timestamp": 1788666300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "16:45",
+      "timestamp": 1788680700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "19:15",
+      "timestamp": 1788689700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "9:10",
+      "timestamp": 1788739800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "11:10",
+      "timestamp": 1788747000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "13:35",
+      "timestamp": 1788755700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "18:30",
+      "timestamp": 1788773400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "9:10",
+      "timestamp": 1788826200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "11:10",
+      "timestamp": 1788833400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "13:35",
+      "timestamp": 1788842100
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "18:30",
+      "timestamp": 1788859800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "9:10",
+      "timestamp": 1788912600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "11:10",
+      "timestamp": 1788919800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "13:35",
+      "timestamp": 1788928500
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": null,
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "18:30",
+      "timestamp": 1788946200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260903",
+      "time": "14:45",
+      "timestamp": 1788414300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "15:35",
+      "timestamp": 1788503700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260904",
+      "time": "21:20",
+      "timestamp": 1788524400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "11:05",
+      "timestamp": 1788573900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "15:45",
+      "timestamp": 1788590700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260905",
+      "time": "20:50",
+      "timestamp": 1788609000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "11:05",
+      "timestamp": 1788660300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "15:45",
+      "timestamp": 1788677100
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260906",
+      "time": "20:50",
+      "timestamp": 1788695400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "15:35",
+      "timestamp": 1788762900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260907",
+      "time": "21:20",
+      "timestamp": 1788783600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "15:35",
+      "timestamp": 1788849300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260908",
+      "time": "21:20",
+      "timestamp": 1788870000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "15:35",
+      "timestamp": 1788935700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "94928",
+      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "typeLabel": "Dolby Atmos",
+      "runtimeMin": 120,
+      "date": "20260909",
+      "time": "21:20",
+      "timestamp": 1788956400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260903",
+      "time": "9:05",
+      "timestamp": 1788393900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260903",
+      "time": "16:15",
+      "timestamp": 1788419700
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260903",
+      "time": "18:40",
+      "timestamp": 1788428400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260904",
+      "time": "16:40",
+      "timestamp": 1788507600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260904",
+      "time": "21:55",
+      "timestamp": 1788526500
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260905",
+      "time": "12:20",
+      "timestamp": 1788578400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260906",
+      "time": "12:20",
+      "timestamp": 1788664800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260907",
+      "time": "9:00",
+      "timestamp": 1788739200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260907",
+      "time": "16:40",
+      "timestamp": 1788766800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260908",
+      "time": "9:00",
+      "timestamp": 1788825600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260908",
+      "time": "16:40",
+      "timestamp": 1788853200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260909",
+      "time": "9:00",
+      "timestamp": 1788912000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "字幕",
+      "runtimeMin": 119,
+      "date": "20260909",
+      "time": "16:40",
+      "timestamp": 1788939600
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104000",
+      "title": "ラスト・サバイバー",
+      "typeLabel": "Dolby Cinema字幕",
+      "runtimeMin": 119,
+      "date": "20260903",
+      "time": "12:15",
+      "timestamp": 1788405300
+    },
+    {
+      "theaterId": "3304",
       "movieId": "105109",
       "title": "映画ちいかわ　人魚の島のひみつ",
       "typeLabel": null,
@@ -75703,603 +76573,83 @@
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "movieId": "105571",
+      "title": "平行と垂直",
       "typeLabel": null,
-      "runtimeMin": 120,
+      "runtimeMin": 118,
       "date": "20260903",
-      "time": "9:00",
-      "timestamp": 1788393600
+      "time": "11:35",
+      "timestamp": 1788402900
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "movieId": "105571",
+      "title": "平行と垂直",
       "typeLabel": null,
-      "runtimeMin": 120,
+      "runtimeMin": 118,
       "date": "20260903",
-      "time": "11:30",
-      "timestamp": 1788402600
+      "time": "18:45",
+      "timestamp": 1788428700
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "movieId": "105571",
+      "title": "平行と垂直",
       "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "16:00",
-      "timestamp": 1788418800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "16:50",
-      "timestamp": 1788421800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "18:30",
-      "timestamp": 1788427800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "19:15",
-      "timestamp": 1788430500
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "21:00",
-      "timestamp": 1788436800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
+      "runtimeMin": 118,
       "date": "20260904",
-      "time": "9:10",
-      "timestamp": 1788480600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260904",
-      "time": "11:30",
-      "timestamp": 1788489000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260904",
-      "time": "13:50",
-      "timestamp": 1788497400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260904",
-      "time": "19:30",
-      "timestamp": 1788517800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "8:20",
-      "timestamp": 1788564000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "12:45",
-      "timestamp": 1788579900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "16:45",
-      "timestamp": 1788594300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "19:15",
-      "timestamp": 1788603300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "8:20",
-      "timestamp": 1788650400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "12:45",
-      "timestamp": 1788666300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "16:45",
-      "timestamp": 1788680700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "19:15",
-      "timestamp": 1788689700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260907",
-      "time": "9:10",
-      "timestamp": 1788739800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260907",
       "time": "11:10",
-      "timestamp": 1788747000
+      "timestamp": 1788487800
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
+      "movieId": "105571",
+      "title": "平行と垂直",
       "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260907",
-      "time": "13:35",
-      "timestamp": 1788755700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260907",
-      "time": "18:30",
-      "timestamp": 1788773400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "9:10",
-      "timestamp": 1788826200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "11:10",
-      "timestamp": 1788833400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "13:35",
-      "timestamp": 1788842100
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "18:30",
-      "timestamp": 1788859800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "9:10",
-      "timestamp": 1788912600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "11:10",
-      "timestamp": 1788919800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "13:35",
-      "timestamp": 1788928500
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": null,
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "18:30",
-      "timestamp": 1788946200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260903",
-      "time": "14:45",
-      "timestamp": 1788414300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260904",
-      "time": "15:35",
-      "timestamp": 1788503700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260904",
-      "time": "21:20",
-      "timestamp": 1788524400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
+      "runtimeMin": 118,
       "date": "20260905",
+      "time": "11:55",
+      "timestamp": 1788576900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105571",
+      "title": "平行と垂直",
+      "typeLabel": null,
+      "runtimeMin": 118,
+      "date": "20260906",
+      "time": "11:55",
+      "timestamp": 1788663300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105571",
+      "title": "平行と垂直",
+      "typeLabel": null,
+      "runtimeMin": 118,
+      "date": "20260907",
       "time": "11:05",
-      "timestamp": 1788573900
+      "timestamp": 1788746700
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "15:45",
-      "timestamp": 1788590700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260905",
-      "time": "20:50",
-      "timestamp": 1788609000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260906",
+      "movieId": "105571",
+      "title": "平行と垂直",
+      "typeLabel": null,
+      "runtimeMin": 118,
+      "date": "20260908",
       "time": "11:05",
-      "timestamp": 1788660300
+      "timestamp": 1788833100
     },
     {
       "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "15:45",
-      "timestamp": 1788677100
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260906",
-      "time": "20:50",
-      "timestamp": 1788695400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260907",
-      "time": "15:35",
-      "timestamp": 1788762900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260907",
-      "time": "21:20",
-      "timestamp": 1788783600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "15:35",
-      "timestamp": 1788849300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260908",
-      "time": "21:20",
-      "timestamp": 1788870000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
+      "movieId": "105571",
+      "title": "平行と垂直",
+      "typeLabel": null,
+      "runtimeMin": 118,
       "date": "20260909",
-      "time": "15:35",
-      "timestamp": 1788935700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "94928",
-      "title": "劇場版　魔法少女まどか☆マギカ　ワルプルギスの廻天",
-      "typeLabel": "Dolby Atmos",
-      "runtimeMin": 120,
-      "date": "20260909",
-      "time": "21:20",
-      "timestamp": 1788956400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260903",
-      "time": "9:05",
-      "timestamp": 1788393900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260903",
-      "time": "16:15",
-      "timestamp": 1788419700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260903",
-      "time": "18:40",
-      "timestamp": 1788428400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260904",
-      "time": "16:40",
-      "timestamp": 1788507600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260904",
-      "time": "21:55",
-      "timestamp": 1788526500
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260905",
-      "time": "12:20",
-      "timestamp": 1788578400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260906",
-      "time": "12:20",
-      "timestamp": 1788664800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260907",
-      "time": "9:00",
-      "timestamp": 1788739200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260907",
-      "time": "16:40",
-      "timestamp": 1788766800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260908",
-      "time": "9:00",
-      "timestamp": 1788825600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260908",
-      "time": "16:40",
-      "timestamp": 1788853200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260909",
-      "time": "9:00",
-      "timestamp": 1788912000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "字幕",
-      "runtimeMin": 119,
-      "date": "20260909",
-      "time": "16:40",
-      "timestamp": 1788939600
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104000",
-      "title": "ラスト・サバイバー",
-      "typeLabel": "Dolby Cinema字幕",
-      "runtimeMin": 119,
-      "date": "20260903",
-      "time": "12:15",
-      "timestamp": 1788405300
+      "time": "11:05",
+      "timestamp": 1788919500
     },
     {
       "theaterId": "3304",
@@ -76390,86 +76740,6 @@
       "date": "20260909",
       "time": "9:00",
       "timestamp": 1788912000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260903",
-      "time": "11:35",
-      "timestamp": 1788402900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260903",
-      "time": "18:45",
-      "timestamp": 1788428700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260904",
-      "time": "11:10",
-      "timestamp": 1788487800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260905",
-      "time": "11:55",
-      "timestamp": 1788576900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260906",
-      "time": "11:55",
-      "timestamp": 1788663300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260907",
-      "time": "11:05",
-      "timestamp": 1788746700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260908",
-      "time": "11:05",
-      "timestamp": 1788833100
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105571",
-      "title": "平行と垂直",
-      "typeLabel": null,
-      "runtimeMin": 118,
-      "date": "20260909",
-      "time": "11:05",
-      "timestamp": 1788919500
     },
     {
       "theaterId": "3304",
@@ -76913,86 +77183,6 @@
     },
     {
       "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "13:05",
-      "timestamp": 1788408300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260904",
-      "time": "9:00",
-      "timestamp": 1788480000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260905",
-      "time": "7:30",
-      "timestamp": 1788561000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260906",
-      "time": "7:30",
-      "timestamp": 1788647400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260907",
-      "time": "18:30",
-      "timestamp": 1788773400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260908",
-      "time": "18:30",
-      "timestamp": 1788859800
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": null,
-      "runtimeMin": 128,
-      "date": "20260909",
-      "time": "18:30",
-      "timestamp": 1788946200
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "104707",
-      "title": "ブルーロック",
-      "typeLabel": "Dolby Cinema",
-      "runtimeMin": 128,
-      "date": "20260903",
-      "time": "9:40",
-      "timestamp": 1788396000
-    },
-    {
-      "theaterId": "3304",
       "movieId": "104266",
       "title": "キングダム　魂の決戦",
       "typeLabel": null,
@@ -77140,6 +77330,86 @@
       "date": "20260909",
       "time": "20:55",
       "timestamp": 1788954900
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "13:05",
+      "timestamp": 1788408300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260904",
+      "time": "9:00",
+      "timestamp": 1788480000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260905",
+      "time": "7:30",
+      "timestamp": 1788561000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260906",
+      "time": "7:30",
+      "timestamp": 1788647400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260907",
+      "time": "18:30",
+      "timestamp": 1788773400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260908",
+      "time": "18:30",
+      "timestamp": 1788859800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": null,
+      "runtimeMin": 128,
+      "date": "20260909",
+      "time": "18:30",
+      "timestamp": 1788946200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "104707",
+      "title": "ブルーロック",
+      "typeLabel": "Dolby Cinema",
+      "runtimeMin": 128,
+      "date": "20260903",
+      "time": "9:40",
+      "timestamp": 1788396000
     },
     {
       "theaterId": "3304",
@@ -77413,6 +77683,76 @@
     },
     {
       "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260903",
+      "time": "9:30",
+      "timestamp": 1788395400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260904",
+      "time": "9:00",
+      "timestamp": 1788480000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260905",
+      "time": "7:30",
+      "timestamp": 1788561000
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260906",
+      "time": "7:30",
+      "timestamp": 1788647400
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260907",
+      "time": "9:10",
+      "timestamp": 1788739800
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260908",
+      "time": "9:10",
+      "timestamp": 1788826200
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "105228",
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "typeLabel": null,
+      "runtimeMin": 101,
+      "date": "20260909",
+      "time": "9:10",
+      "timestamp": 1788912600
+    },
+    {
+      "theaterId": "3304",
       "movieId": "105870",
       "title": "ミニオンズ＆モンスターズ",
       "typeLabel": "吹替",
@@ -77553,73 +77893,73 @@
     },
     {
       "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "吹替",
+      "runtimeMin": 152,
       "date": "20260903",
-      "time": "9:30",
-      "timestamp": 1788395400
+      "time": "11:05",
+      "timestamp": 1788401100
     },
     {
       "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "吹替",
+      "runtimeMin": 152,
+      "date": "20260903",
+      "time": "13:05",
+      "timestamp": 1788408300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "Dolby Cinema3D字幕",
+      "runtimeMin": 152,
+      "date": "20260903",
+      "time": "17:15",
+      "timestamp": 1788423300
+    },
+    {
+      "theaterId": "3304",
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "Dolby Cinema3D字幕",
+      "runtimeMin": 152,
       "date": "20260904",
-      "time": "9:00",
-      "timestamp": 1788480000
+      "time": "18:05",
+      "timestamp": 1788512700
     },
     {
       "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260905",
-      "time": "7:30",
-      "timestamp": 1788561000
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
-      "date": "20260906",
-      "time": "7:30",
-      "timestamp": 1788647400
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "Dolby Cinema3D字幕",
+      "runtimeMin": 152,
       "date": "20260907",
-      "time": "9:10",
-      "timestamp": 1788739800
+      "time": "18:05",
+      "timestamp": 1788771900
     },
     {
       "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "Dolby Cinema3D字幕",
+      "runtimeMin": 152,
       "date": "20260908",
-      "time": "9:10",
-      "timestamp": 1788826200
+      "time": "18:05",
+      "timestamp": 1788858300
     },
     {
       "theaterId": "3304",
-      "movieId": "105228",
-      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
-      "typeLabel": null,
-      "runtimeMin": 101,
+      "movieId": "1076",
+      "title": "ハリー・ポッターと賢者の石",
+      "typeLabel": "Dolby Cinema3D字幕",
+      "runtimeMin": 152,
       "date": "20260909",
-      "time": "9:10",
-      "timestamp": 1788912600
+      "time": "18:05",
+      "timestamp": 1788944700
     },
     {
       "theaterId": "3304",
@@ -77690,76 +78030,6 @@
       "date": "20260909",
       "time": "21:15",
       "timestamp": 1788956100
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "吹替",
-      "runtimeMin": 152,
-      "date": "20260903",
-      "time": "11:05",
-      "timestamp": 1788401100
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "吹替",
-      "runtimeMin": 152,
-      "date": "20260903",
-      "time": "13:05",
-      "timestamp": 1788408300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "Dolby Cinema3D字幕",
-      "runtimeMin": 152,
-      "date": "20260903",
-      "time": "17:15",
-      "timestamp": 1788423300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "Dolby Cinema3D字幕",
-      "runtimeMin": 152,
-      "date": "20260904",
-      "time": "18:05",
-      "timestamp": 1788512700
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "Dolby Cinema3D字幕",
-      "runtimeMin": 152,
-      "date": "20260907",
-      "time": "18:05",
-      "timestamp": 1788771900
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "Dolby Cinema3D字幕",
-      "runtimeMin": 152,
-      "date": "20260908",
-      "time": "18:05",
-      "timestamp": 1788858300
-    },
-    {
-      "theaterId": "3304",
-      "movieId": "1076",
-      "title": "ハリー・ポッターと賢者の石",
-      "typeLabel": "Dolby Cinema3D字幕",
-      "runtimeMin": 152,
-      "date": "20260909",
-      "time": "18:05",
-      "timestamp": 1788944700
     },
     {
       "theaterId": "3304",
